@@ -298,5 +298,11 @@
     "subcategory": "Flamecharm",
     "name": "Fire Gun Left",
     "id": "5773126484"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "Fire Forge Cast",
+    "id": "7608490737"
   }
 ]
