@@ -316,5 +316,11 @@
     "subcategory": "Flamecharm",
     "name": "Flame Grab",
     "id": "5750353585"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "Flame Repulsion Cast",
+    "id": "5778357994"
   }
 ]
