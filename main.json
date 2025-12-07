@@ -310,5 +310,11 @@
     "subcategory": "Flamecharm",
     "name": "Rising Flame Cast",
     "id": "5953334475"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "Flame Grab",
+    "id": "5750353585"
   }
 ]
