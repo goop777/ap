@@ -280,5 +280,11 @@
     "subcategory": "Greatsword",
     "name": "GSOVerhand",
     "id": "7367818208"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "Flare Volley Cast",
+    "id": "17665724819"
   }
 ]
