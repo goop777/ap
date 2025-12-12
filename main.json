@@ -604,17 +604,5 @@
     "subcategory": "Ironsing",
     "name": "Chain Pull",
     "id": "13527611147"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "Titus",
-    "name": "TitusCharge",
-    "id": "113791985784867"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "Titus",
-    "name": "TitusStormboundChargeWindupLoop",
-    "id": "113791985784867"
   }
 ]
