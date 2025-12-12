@@ -358,5 +358,11 @@
     "subcategory": "Bloodrend",
     "name": "Vein Tendrils",
     "id": "137539842058795"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "Shadow Eruption",
+    "id": "8018953639"
   }
 ]
