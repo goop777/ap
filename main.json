@@ -340,5 +340,11 @@
     "subcategory": "Bloodrend",
     "name": "Crucifixion",
     "id": "95579926860398"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Bloodrend",
+    "name": "Sanguine Dive",
+    "id": "84099118348290"
   }
 ]
