@@ -610,5 +610,11 @@
     "subcategory": "Titus",
     "name": "TitusCharge",
     "id": "113791985784867"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Titus",
+    "name": "TitusStormboundChargeWindupLoop",
+    "id": "113791985784867"
   }
 ]
