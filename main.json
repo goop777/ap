@@ -370,5 +370,11 @@
     "subcategory": "Shadowcast",
     "name": "Shadow Gun",
     "id": "6415085564"
+  },
+  {
+    "category": "Mantas",
+    "subcategory": "Shadowcast",
+    "name": "Shadow Grab",
+    "id": "6385078248"
   }
 ]
