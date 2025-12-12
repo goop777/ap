@@ -580,5 +580,11 @@
     "subcategory": "Galebreathe",
     "name": "Tornado Kick Cast",
     "id": "10357806593"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreathe",
+    "name": "Tornado Kick Follw Up",
+    "id": "10358800338"
   }
 ]
