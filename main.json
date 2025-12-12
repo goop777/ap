@@ -454,5 +454,11 @@
     "subcategory": "Thundercall",
     "name": "Lightning Strike",
     "id": "5786525661"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "Lightning Beam",
+    "id": "7617742471"
   }
 ]
