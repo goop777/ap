@@ -616,5 +616,11 @@
     "subcategory": "Titus",
     "name": "TitusTempestousVault",
     "id": "118932415770119"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Titus",
+    "name": "TitusParryWarCry",
+    "id": "89507864905366"
   }
 ]
