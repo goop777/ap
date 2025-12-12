@@ -520,5 +520,11 @@
     "subcategory": "Frostdraw",
     "name": "Frost Grab",
     "id": "16899965799"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "Ice Fissure Cast",
+    "id": "15310919006"
   }
 ]
