@@ -412,5 +412,11 @@
     "subcategory": "Shadowcast",
     "name": "Shade Step",
     "id": "84099118348290"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "Jolt Grab",
+    "id": "5750353585"
   }
 ]
