@@ -610,5 +610,11 @@
     "subcategory": "Titus",
     "name": "Kick1",
     "id": "96265399948947"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Titus",
+    "name": "TitusTempestousVault",
+    "id": "118932415770119"
   }
 ]
