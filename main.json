@@ -364,5 +364,11 @@
     "subcategory": "Shadowcast",
     "name": "Shadow Eruption",
     "id": "8018953639"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "Shadow Gun",
+    "id": "6415085564"
   }
 ]
