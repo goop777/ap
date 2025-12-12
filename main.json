@@ -406,5 +406,11 @@
     "subcategory": "Shadowcast",
     "name": "Dark Blade",
     "id": "6038858570"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "Shade Step",
+    "id": "84099118348290"
   }
 ]
