@@ -418,5 +418,11 @@
     "subcategory": "Thundercall",
     "name": "Jolt Grab",
     "id": "5750353585"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "Lightning Stream",
+    "id": "7761251007"
   }
 ]
