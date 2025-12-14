@@ -646,5 +646,11 @@
     "subcategory": "Shogun",
     "name": "ShogunAeirialDoubleSwing",
     "id": "118154222392812"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Shogun",
+    "name": "ShogunUpsweep",
+    "id": "86527092652774"
   }
 ]
