@@ -652,5 +652,11 @@
     "subcategory": "Shogun",
     "name": "ShogunUpsweep",
     "id": "86527092652774"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Shogun",
+    "name": "ShogunDazeSwing",
+    "id": "134600514326413"
   }
 ]
