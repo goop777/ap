@@ -658,5 +658,11 @@
     "subcategory": "Shogun",
     "name": "ShogunDazeSwing",
     "id": "134600514326413"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Shogun",
+    "name": "ShogunTripleFang",
+    "id": "112423929319383"
   }
 ]
