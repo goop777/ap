@@ -664,5 +664,11 @@
     "subcategory": "Shogun",
     "name": "ShogunTripleFang",
     "id": "112423929319383"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "RifleSpear",
+    "name": "Crit",
+    "id": "8172871094"
   }
 ]
