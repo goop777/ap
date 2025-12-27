@@ -676,5 +676,11 @@
     "subcategory": "Jetstriker",
     "name": "JetstrikerKick",
     "id": "16873988732"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Pistol",
+    "name": "GenericPistolShot2",
+    "id": "14435773739"
   }
 ]
