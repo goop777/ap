@@ -808,5 +808,11 @@
     "subcategory": "Galebreathe",
     "name": "Wind Blade",
     "id": "7666455222"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "HeroBlade",
+    "name": "FireHeroCrit",
+    "id": "11308969885"
   }
 ]
