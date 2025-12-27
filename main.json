@@ -832,5 +832,11 @@
     "subcategory": "Chainwarden",
     "name": "Restrain_2",
     "id": "18585956004"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Bounder",
+    "name": "BounderLeap",
+    "id": "9544206893"
   }
 ]
