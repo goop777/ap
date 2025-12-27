@@ -688,5 +688,11 @@
     "subcategory": "Bounder",
     "name": "BounderChargePrep",
     "id": "9544203895"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Kaido",
+    "name": "DreadBreath",
+    "id": "11219902982"
   }
 ]
