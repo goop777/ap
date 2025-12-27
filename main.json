@@ -736,5 +736,11 @@
     "subcategory": "Rosenflame",
     "name": "RosenJumpCrit",
     "id": "126513657913280"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "HeavyWep",
+    "name": "PressureBlast",
+    "id": "8375571405"
   }
 ]
