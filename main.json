@@ -778,5 +778,11 @@
     "subcategory": "Mudskipper",
     "name": "Headbutt",
     "id": "7968088101"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Titus",
+    "name": "TitusStormbound",
+    "id": "82898164556000"
   }
 ]
