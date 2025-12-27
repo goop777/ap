@@ -886,5 +886,11 @@
     "subcategory": "FrostDraw",
     "name": "IceCarveSpin",
     "id": "16337192866"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Halberd",
+    "name": "HalbertCrit",
+    "id": "9212883524"
   }
 ]
