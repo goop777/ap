@@ -856,5 +856,11 @@
     "subcategory": "Shadowcast",
     "name": "DarkBladeSpin",
     "id": "5053295423"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "LightningBlade",
+    "id": "7599155704"
   }
 ]
