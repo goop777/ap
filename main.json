@@ -796,5 +796,11 @@
     "subcategory": "NemitSickle",
     "name": "NemitSickleCrit",
     "id": "75485891279258"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Fadetrimmer",
+    "name": "PrecisionCuts",
+    "id": "14181029595"
   }
 ]
