@@ -880,5 +880,11 @@
     "subcategory": "Kyrsglaive",
     "name": "KyrsglaiveCrit",
     "id": "109165501462354"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "FrostDraw",
+    "name": "IceCarveSpin",
+    "id": "16337192866"
   }
 ]
