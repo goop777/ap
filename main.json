@@ -1006,5 +1006,11 @@
     "subcategory": "Saintsworn",
     "name": "SaintIce2",
     "id": "17481302463"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "SeraphSpear",
+    "name": "SeraphSpearCrit",
+    "id": "119723009958796"
   }
 ]
