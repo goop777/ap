@@ -736,5 +736,11 @@
     "subcategory": "HeavyWep",
     "name": "PressureBlast",
     "id": "8375571405"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Monster Mantras",
+    "name": "DreadBreath",
+    "id": "11219902982"
   }
 ]
