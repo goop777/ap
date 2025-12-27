@@ -850,5 +850,11 @@
     "subcategory": "Stormseye",
     "name": "StormseyeCrit",
     "id": "13610101542"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "DarkBladeSpin",
+    "id": "5053295423"
   }
 ]
