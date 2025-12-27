@@ -718,5 +718,11 @@
     "subcategory": "Spear",
     "name": "Spear Running",
     "id": "5827423063"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "ElectroCarveBlast",
+    "id": "15331452847"
   }
 ]
