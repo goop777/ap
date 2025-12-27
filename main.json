@@ -682,5 +682,11 @@
     "subcategory": "Pistol",
     "name": "GenericPistolShot2",
     "id": "14435773739"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Bounder",
+    "name": "BounderChargePrep",
+    "id": "9544203895"
   }
 ]
