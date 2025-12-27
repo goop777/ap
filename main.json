@@ -730,5 +730,11 @@
     "subcategory": "Inferno",
     "name": "Inferno",
     "id": "117058220308511"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Spear",
+    "name": "Spear Running",
+    "id": "5827423063"
   }
 ]
