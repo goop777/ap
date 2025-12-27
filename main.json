@@ -874,5 +874,11 @@
     "subcategory": "Dawnwalker",
     "name": "BlindingDawn",
     "id": "10621877046"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Kyrsglaive",
+    "name": "KyrsglaiveCrit",
+    "id": "109165501462354"
   }
 ]
