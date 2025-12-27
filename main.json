@@ -790,5 +790,11 @@
     "subcategory": "KyrsgardeBrute",
     "name": "BruteSlam",
     "id": "10451129790"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "NemitSickle",
+    "name": "NemitSickleCrit",
+    "id": "75485891279258"
   }
 ]
