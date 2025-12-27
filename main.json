@@ -724,5 +724,11 @@
     "subcategory": "Thundercall",
     "name": "ElectroCarveBlast",
     "id": "15331452847"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Saintsworn",
+    "name": "SaintFire",
+    "id": "17481282052"
   }
 ]
