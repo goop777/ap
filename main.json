@@ -826,5 +826,11 @@
     "subcategory": "Greataxe",
     "name": "GreataxeCritical",
     "id": "7388133473"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Chainwarden",
+    "name": "Restrain",
+    "id": "18585956004"
   }
 ]
