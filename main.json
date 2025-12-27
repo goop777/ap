@@ -670,5 +670,11 @@
     "subcategory": "RifleSpear",
     "name": "Crit",
     "id": "8172871094"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Jetstriker",
+    "name": "JetstrikerKick",
+    "id": "16873988732"
   }
 ]
