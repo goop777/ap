@@ -820,5 +820,11 @@
     "subcategory": "Hullwrecker",
     "name": "HullwreckerCrit",
     "id": "91712846887182"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Greataxe",
+    "name": "GreataxeCritical",
+    "id": "7388133473"
   }
 ]
