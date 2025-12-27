@@ -994,5 +994,11 @@
     "subcategory": "Falchion",
     "name": "FalchionCrit",
     "id": "129221485664326"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Dagger",
+    "name": "DaggerCrit",
+    "id": "7350770431"
   }
 ]
