@@ -988,5 +988,11 @@
     "subcategory": "Saintsworn",
     "name": "SaintIce",
     "id": "17481300369"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Falchion",
+    "name": "FalchionCrit",
+    "id": "129221485664326"
   }
 ]
