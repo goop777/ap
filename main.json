@@ -922,5 +922,11 @@
     "subcategory": "RifleSpear",
     "name": "RifleSpearCrit",
     "id": "8172871094"
+  },
+  {
+    "category": "Mantra",
+    "subcategory": "Monster Mantras",
+    "name": "BrachialSpear",
+    "id": "10695391139"
   }
 ]
