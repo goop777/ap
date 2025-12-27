@@ -826,5 +826,11 @@
     "subcategory": "Contractor",
     "name": "Judgement",
     "id": "9726608174"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Chainwarden",
+    "name": "Restrain_2",
+    "id": "18585956004"
   }
 ]
