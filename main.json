@@ -916,5 +916,11 @@
     "subcategory": "Starkindred",
     "name": "DeathFromAbove",
     "id": "121029419529086"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "RifleSpear",
+    "name": "RifleSpearCrit",
+    "id": "8172871094"
   }
 ]
