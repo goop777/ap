@@ -724,5 +724,11 @@
     "subcategory": "Judgement",
     "name": "ContractorGrab",
     "id": "9726608174"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Inferno",
+    "name": "Inferno",
+    "id": "117058220308511"
   }
 ]
