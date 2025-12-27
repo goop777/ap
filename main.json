@@ -760,5 +760,11 @@
     "subcategory": "ChorusOfAgonies",
     "name": "ChorusCrit",
     "id": "132792155877270"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Titus",
+    "name": "TitusVault",
+    "id": "118932415770119"
   }
 ]
