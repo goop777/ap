@@ -754,5 +754,11 @@
     "subcategory": "A_LordRegent",
     "name": "RegentFinalHit",
     "id": "117389921732038"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "ChorusOfAgonies",
+    "name": "ChorusCrit",
+    "id": "132792155877270"
   }
 ]
