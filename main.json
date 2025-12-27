@@ -1012,5 +1012,11 @@
     "subcategory": "SeraphSpear",
     "name": "SeraphSpearCrit",
     "id": "119723009958796"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Pyrekeeper",
+    "name": "PyreKeeperCritRunningWindup",
+    "id": "93913813469029"
   }
 ]
