@@ -844,5 +844,11 @@
     "subcategory": "Jus Karita",
     "name": "KaritaLeap",
     "id": "15420044707"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Stormseye",
+    "name": "StormseyeCrit",
+    "id": "13610101542"
   }
 ]
