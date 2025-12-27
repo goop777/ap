@@ -685,12 +685,6 @@
   },
   {
     "category": "Mobs",
-    "subcategory": "Kaido",
-    "name": "DreadBreath",
-    "id": "11219902982"
-  },
-  {
-    "category": "Mobs",
     "subcategory": "Turtle",
     "name": "TerrapodStandSwipe",
     "id": "6728862735"
