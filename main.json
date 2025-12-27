@@ -772,5 +772,11 @@
     "subcategory": "Shotel",
     "name": "ShotelCrit",
     "id": "7830946229"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Mudskipper",
+    "name": "Headbutt",
+    "id": "7968088101"
   }
 ]
