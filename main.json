@@ -898,5 +898,11 @@
     "subcategory": "ImperialStaff",
     "name": "ImperialCrit",
     "id": "16707867563"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "PyreKeeper",
+    "name": "PyreKeeperCritCrouch",
+    "id": "71282727175994"
   }
 ]
