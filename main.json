@@ -730,5 +730,11 @@
     "subcategory": "Saintsworn",
     "name": "SaintFire",
     "id": "17481282052"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Rosenflame",
+    "name": "RosenJumpCrit",
+    "id": "126513657913280"
   }
 ]
