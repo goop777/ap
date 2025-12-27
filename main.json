@@ -928,5 +928,11 @@
     "subcategory": "Monster Mantras",
     "name": "BrachialSpear",
     "id": "10695391139"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Enmity",
+    "name": "ENMITYHOMERUN",
+    "id": "18967397842"
   }
 ]
