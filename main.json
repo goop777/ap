@@ -862,5 +862,11 @@
     "subcategory": "Thundercall",
     "name": "LightningBlade",
     "id": "7599155704"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "EventMantra",
+    "name": "PumpkinThrow",
+    "id": "15160255894"
   }
 ]
