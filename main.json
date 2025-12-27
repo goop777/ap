@@ -982,5 +982,11 @@
     "subcategory": "MediumWep",
     "name": "FlashdrawStrike",
     "id": "15302935464"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Saintsworn",
+    "name": "SaintIce",
+    "id": "17481300369"
   }
 ]
