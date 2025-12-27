@@ -1000,5 +1000,11 @@
     "subcategory": "Dagger",
     "name": "DaggerCrit",
     "id": "7350770431"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Saintsworn",
+    "name": "SaintIce2",
+    "id": "17481302463"
   }
 ]
