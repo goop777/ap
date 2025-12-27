@@ -814,5 +814,11 @@
     "subcategory": "HeroBlade",
     "name": "FireHeroCrit",
     "id": "11308969885"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Hullwrecker",
+    "name": "HullwreckerCrit",
+    "id": "91712846887182"
   }
 ]
