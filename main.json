@@ -892,5 +892,11 @@
     "subcategory": "Halberd",
     "name": "HalbertCrit",
     "id": "9212883524"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "ImperialStaff",
+    "name": "ImperialCrit",
+    "id": "16707867563"
   }
 ]
