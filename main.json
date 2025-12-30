@@ -1024,5 +1024,11 @@
     "subcategory": "Titus",
     "name": "TitusGrab",
     "id": "129434390222986"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Titus",
+    "name": "TitusVent",
+    "id": "82036457304798"
   }
 ]
