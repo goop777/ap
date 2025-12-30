@@ -620,12 +620,6 @@
   {
     "category": "Mobs",
     "subcategory": "Titus",
-    "name": "TitusThrow",
-    "id": "128613582420698"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "Titus",
     "name": "TitusLariat",
     "id": "93803643628347"
   },
@@ -1036,11 +1030,5 @@
     "subcategory": "Titus",
     "name": "TitusStormboundLoop",
     "id": "113791985784867"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "Titus",
-    "name": "TitusGrabDodge",
-    "id": "128613582420698"
   }
 ]
