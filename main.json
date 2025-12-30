@@ -1096,5 +1096,11 @@
     "subcategory": "Titus",
     "name": "TitusGroundPound",
     "id": "123260957812568"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Titus",
+    "name": "LeigonKataMasteryM1_1",
+    "id": "123115833203242"
   }
 ]
