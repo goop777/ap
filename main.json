@@ -733,12 +733,6 @@
   },
   {
     "category": "Mobs",
-    "subcategory": "Titus",
-    "name": "TitusStormbound",
-    "id": "82898164556000"
-  },
-  {
-    "category": "Mobs",
     "subcategory": "KyrsgardeBrute",
     "name": "BruteSlam",
     "id": "10451129790"
