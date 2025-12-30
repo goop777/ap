@@ -1036,5 +1036,11 @@
     "subcategory": "RatKing",
     "name": "RatKingSpinMove",
     "id": "100615685249881"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "RatKing",
+    "name": "RatKingGoldenSlamCombo",
+    "id": "114805982806619"
   }
 ]
