@@ -1048,5 +1048,11 @@
     "subcategory": "RatKing",
     "name": "RatKingDashCombo",
     "id": "80367812090420"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "RatKing",
+    "name": "RatKingDoubleSlashDash",
+    "id": "76066030388144"
   }
 ]
