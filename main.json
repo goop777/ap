@@ -994,5 +994,11 @@
     "subcategory": "Titus",
     "name": "TitusStormboundLoop",
     "id": "113791985784867"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Titus",
+    "name": "TitusGrabDodge",
+    "id": "128613582420698"
   }
 ]
