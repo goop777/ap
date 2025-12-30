@@ -1024,5 +1024,11 @@
     "subcategory": "Titus",
     "name": "TitusGroundStomp",
     "id": "98679832505566"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Titus",
+    "name": "TitusWarCry",
+    "id": "89507864905366"
   }
 ]
