@@ -602,12 +602,6 @@
   {
     "category": "Mobs",
     "subcategory": "Titus",
-    "name": "TitusParryWarCry",
-    "id": "89507864905366"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "Titus",
     "name": "TitusLariat",
     "id": "93803643628347"
   },
