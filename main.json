@@ -601,12 +601,6 @@
   },
   {
     "category": "Mobs",
-    "subcategory": "Titus",
-    "name": "TitusGroundPound",
-    "id": "123260957812568"
-  },
-  {
-    "category": "Mobs",
     "subcategory": "Shogun",
     "name": "ShogunAeirialDoubleSwing",
     "id": "118154222392812"
