@@ -1066,5 +1066,11 @@
     "subcategory": "RatKing",
     "name": "RatKingTripleFeint",
     "id": "99685895455082"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "RatKing",
+    "name": "RatKingLeapSlash",
+    "id": "72778500832762"
   }
 ]
