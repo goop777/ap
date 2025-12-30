@@ -1022,12 +1022,6 @@
   {
     "category": "Mobs",
     "subcategory": "Titus",
-    "name": "TitusVent",
-    "id": "82036457304798"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "Titus",
     "name": "TitusStormboundLoop",
     "id": "113791985784867"
   }
