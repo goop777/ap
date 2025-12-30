@@ -1090,5 +1090,11 @@
     "subcategory": "RatKing",
     "name": "RatKingGoldenSlam",
     "id": "89895614231097"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "RatKing",
+    "name": "RatKingTPSlash",
+    "id": "127923998122186"
   }
 ]
