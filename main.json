@@ -1072,5 +1072,11 @@
     "subcategory": "RatKing",
     "name": "RatKingLeapSlash",
     "id": "72778500832762"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "RatKing",
+    "name": "RatKingStabSlash",
+    "id": "94401200412230"
   }
 ]
