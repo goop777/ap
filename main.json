@@ -1042,5 +1042,11 @@
     "subcategory": "RatKing",
     "name": "RatKingGoldenSlamCombo",
     "id": "114805982806619"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "RatKing",
+    "name": "RatKingDashCombo",
+    "id": "80367812090420"
   }
 ]
