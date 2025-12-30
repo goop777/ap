@@ -1000,5 +1000,11 @@
     "subcategory": "Titus",
     "name": "TitusGrabDodge",
     "id": "128613582420698"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Titus",
+    "name": "TitusLariat",
+    "id": "93803643628347"
   }
 ]
