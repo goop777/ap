@@ -1084,5 +1084,11 @@
     "subcategory": "RatKing",
     "name": "RatKingSpinStart",
     "id": "80723899174789"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "RatKing",
+    "name": "RatKingGoldenSlam",
+    "id": "89895614231097"
   }
 ]
