@@ -1006,5 +1006,11 @@
     "subcategory": "Titus",
     "name": "TitusLariat",
     "id": "93803643628347"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Titus",
+    "name": "TitusKick",
+    "id": "80865399851806"
   }
 ]
