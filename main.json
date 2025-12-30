@@ -1030,5 +1030,11 @@
     "subcategory": "Titus",
     "name": "TitusWarCry",
     "id": "89507864905366"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "RatKing",
+    "name": "RatKingSpinMove",
+    "id": "100615685249881"
   }
 ]
