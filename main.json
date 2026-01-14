@@ -1,651 +1,15 @@
 [
   {
-    "category": "Mantras",
-    "subcategory": "Flamecharm",
-    "name": "Fire Eruption",
-    "id": "8378263543"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Flamecharm",
-    "name": "Flame Leap",
-    "id": "7542502881"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Flamecharm",
-    "name": "Flame Assault",
-    "id": "7543558046"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Flamecharm",
-    "name": "Flashfire Sweep",
-    "id": "15881820093"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Flamecharm",
-    "name": "Fire Blade",
-    "id": "8046864635"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Flamecharm",
-    "name": "Burning Servants",
-    "id": "5769343416"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Flamecharm",
-    "name": "Fire Palm",
-    "id": "7618754583"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Flamecharm",
-    "name": "Searing Snare",
-    "id": "17291444957"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Bloodrend",
-    "name": "Blood Orb",
-    "id": "137313477686049"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Bloodrend",
-    "name": "Crimson Surge",
-    "id": "14428785439"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Bloodrend",
-    "name": "Bloodcurdle",
-    "id": "84773513700650"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Bloodrend",
-    "name": "Crimson Rain",
-    "id": "83367609184503"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Eclipse Kick",
-    "id": "1195960385"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Shadow Assault",
-    "id": "6318273143"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Rising Shadow",
-    "id": "9149348937"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Umbral Slash",
-    "id": "70499364296634"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Thundercall",
-    "name": "Grand Javelin",
-    "id": "8183996606"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Thundercall",
-    "name": "Emotion Wave",
-    "id": "17758627105"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Thundercall",
-    "name": "Lightning Kick",
-    "id": "7861135817"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Rising Frost",
-    "id": "15121611060"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Ice Cubes",
-    "id": "8467835626"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Ice Eruption",
-    "id": "9551012380"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Iceberg",
-    "id": "9234812388"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Ice Flock",
-    "id": "16079914008"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Ice Lunge",
-    "id": "8265980703"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreathe",
-    "name": "Wind Carve",
-    "id": "6466993564"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreathe",
-    "name": "Wind Gun",
-    "id": "8310877920"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreathe",
-    "name": "Astral Wind",
-    "id": "6470684331"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreathe",
-    "name": "Twister Kicks",
-    "id": "16394277950"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreathe",
-    "name": "Updraft Cast",
-    "id": "108775350619127"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreathe",
-    "name": "Wind Forge",
-    "id": "15449613429"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Ironsing",
-    "name": "Oxidizing Rush",
-    "id": "13567686046"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Ironsing",
-    "name": "Metal Fakeout",
-    "id": "16550960639"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Ironsing",
-    "name": "Rocket Lance",
-    "id": "13643852843"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Ironsing",
-    "name": "Metal Rain",
-    "id": "13408478146"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Ironsing",
-    "name": "Iron Slam",
-    "id": "13472893499"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Ironsing",
-    "name": "Metal Gatling",
-    "id": "13338519421"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Ironsing",
-    "name": "Metal Ball",
-    "id": "14953939237"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Ironsing",
-    "name": "Needle Barrage",
-    "id": "13253662736"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Ironsing",
-    "name": "Firing Line",
-    "id": "13282373122"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Strength",
-    "name": "Strong Left",
-    "id": "8085349676"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Ironsing",
-    "name": "Oxidizing Rush Cast",
-    "id": "13567686046"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Ironsing",
-    "name": "Rocket Lance Cast",
-    "id": "13643852843"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Flamecharm",
-    "name": "Relentless Flames Swing 1",
-    "id": "7600160919"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Flamecharm",
-    "name": "Ash Slam",
-    "id": "8199600822"
-  },
-  {
-    "category": "Criticals",
-    "subcategory": "Greatsword",
-    "name": "GSOVerhand",
-    "id": "7367818208"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Flamecharm",
-    "name": "Flare Volley Cast",
-    "id": "17665724819"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Flamecharm",
-    "name": "Fire Gun Right",
-    "id": "5773120368"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Flamecharm",
-    "name": "Fire Gun Left",
-    "id": "5773126484"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Flamecharm",
-    "name": "Fire Forge Cast",
-    "id": "7608490737"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Flamecharm",
-    "name": "Rising Flame Cast",
-    "id": "5953334475"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Flamecharm",
-    "name": "Flame Grab",
-    "id": "5750353585"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Flamecharm",
-    "name": "Flame Repulsion Cast",
-    "id": "5778357994"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Bloodrend",
-    "name": "Razor Blitz",
-    "id": "114463797015507"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Bloodrend",
-    "name": "Veinbreaker",
-    "id": "87546275535152"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Bloodrend",
-    "name": "Crucifixion",
-    "id": "95579926860398"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Bloodrend",
-    "name": "Sanguine Dive",
-    "id": "84099118348290"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Bloodrend",
-    "name": "Scarlet Cyclone",
-    "id": "76903904386023"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Bloodrend",
-    "name": "Vein Tendrils",
-    "id": "137539842058795"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Shadow Eruption",
-    "id": "8018953639"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Shadow Gun",
-    "id": "6415085564"
-  },
-  {
-    "category": "Mantas",
-    "subcategory": "Shadowcast",
-    "name": "Shadow Grab",
-    "id": "6385078248"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Shade Bringer",
-    "id": "9470857690"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Shadow Roar",
-    "id": "7620630583"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Shadow Chains",
-    "id": "8018953639"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Shadow Meteor",
-    "id": "6701095669"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Dark Blade",
-    "id": "6038858570"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Shade Step",
-    "id": "84099118348290"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Thundercall",
-    "name": "Jolt Grab",
-    "id": "5750353585"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Thundercall",
-    "name": "Lightning Stream",
-    "id": "7761251007"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Thundercall",
-    "name": "Lightning Assault",
-    "id": "5968288116"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Thundercall",
-    "name": "Thunder Kick",
-    "id": "7861135817"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Thundercall",
-    "name": "Rising Thunder Cast",
-    "id": "12333759044"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Thundercall",
-    "name": "Lightning Impact",
-    "id": "6500291394"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Thundercall",
-    "name": "Lightning Strike",
-    "id": "5786525661"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Thundercall",
-    "name": "Lightning Beam",
-    "id": "7617742471"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Thundercall",
-    "name": "Storm Blades",
-    "id": "8467835626"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Ice Carve 2",
-    "id": "15714151635"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Ice Carve",
-    "id": "15713914142"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Crystal Impale Jump",
-    "id": "6054920207"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Crystal Impale Slam",
-    "id": "6054898299"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Crystal Knee",
-    "id": "6410519942"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Ice Lasers",
-    "id": "6055558740"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Ice Chain",
-    "id": "8018953639"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Ice Forge",
-    "id": "8467835626"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Frost Grab",
-    "id": "16899965799"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Ice Fissure Cast",
-    "id": "15310919006"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Warden's Blades",
-    "id": "5786525661"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreathe",
-    "name": "Wind Passage",
-    "id": "5968288116"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreathe",
-    "name": "Champion's Whirlthrow Grab",
-    "id": "9629695751"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreathe",
-    "name": "Rising Wind Cast",
-    "id": "7794268358"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreathe",
-    "name": "Gale Punch",
-    "id": "7618754583"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreathe",
-    "name": "Heavenly Wind Slam",
-    "id": "6030850955"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreathe",
-    "name": "Gale Lunge",
-    "id": "6017418456"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreathe",
-    "name": "Air Force",
-    "id": "5828315760"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreathe",
-    "name": "Tornado Kick Cast",
-    "id": "10357806593"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreathe",
-    "name": "Tornado Kick Follw Up",
-    "id": "10358800338"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreathe",
-    "name": "Tornado",
-    "id": "7585268054"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Ironsing",
-    "name": "Iron Hug",
-    "id": "13529984980"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Ironsing",
-    "name": "Chain Pull",
-    "id": "13527611147"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "Shogun",
-    "name": "ShogunAeirialDoubleSwing",
-    "id": "118154222392812"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "Shogun",
-    "name": "ShogunUpsweep",
-    "id": "86527092652774"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "Shogun",
-    "name": "ShogunDazeSwing",
-    "id": "134600514326413"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "Shogun",
-    "name": "ShogunTripleFang",
-    "id": "112423929319383"
-  },
-  {
-    "category": "Critical",
-    "subcategory": "RifleSpear",
-    "name": "Crit",
-    "id": "8172871094"
-  },
-  {
-    "category": "Oath",
-    "subcategory": "Jetstriker",
-    "name": "JetstrikerKick",
-    "id": "16873988732"
-  },
-  {
-    "category": "Weapon",
-    "subcategory": "Pistol",
-    "name": "GenericPistolShot2",
-    "id": "14435773739"
-  },
-  {
     "category": "Mobs",
     "subcategory": "Bounder",
     "name": "BounderChargePrep",
     "id": "9544203895"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Monster Mantras",
+    "name": "DreadBreath",
+    "id": "11219902982"
   },
   {
     "category": "Mobs",
@@ -656,326 +20,788 @@
   {
     "category": "Weapon",
     "subcategory": "ImperialStaff",
-    "name": "ImperialM1",
+    "name": "ImperialM1_3",
     "id": "16654113357"
   },
   {
     "category": "Weapon",
     "subcategory": "Inferno",
-    "name": "Inferno",
+    "name": "2Inferno2",
     "id": "117058220308511"
   },
   {
-    "category": "Weapon",
-    "subcategory": "Spear",
-    "name": "Spear Running",
-    "id": "5827423063"
-  },
-  {
     "category": "Mantras",
-    "subcategory": "Thundercall",
-    "name": "ElectroCarveBlast",
-    "id": "15331452847"
-  },
-  {
-    "category": "Oath",
-    "subcategory": "Saintsworn",
-    "name": "SaintFire",
-    "id": "17481282052"
-  },
-  {
-    "category": "Critical",
-    "subcategory": "Rosenflame",
-    "name": "RosenJumpCrit",
-    "id": "126513657913280"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "HeavyWep",
-    "name": "PressureBlast",
-    "id": "8375571405"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Monster Mantras",
-    "name": "DreadBreath",
-    "id": "11219902982"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Monster Mantras",
-    "name": "CoralSpear",
-    "id": "10739102450"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "A_LordRegent",
-    "name": "RegentFinalHit",
-    "id": "117389921732038"
-  },
-  {
-    "category": "Critical",
-    "subcategory": "ChorusOfAgonies",
-    "name": "ChorusCrit",
-    "id": "132792155877270"
-  },
-  {
-    "category": "Critical",
-    "subcategory": "Shotel",
-    "name": "ShotelCrit",
-    "id": "7830946229"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "Mudskipper",
-    "name": "Headbutt",
-    "id": "7968088101"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "KyrsgardeBrute",
-    "name": "BruteSlam",
-    "id": "10451129790"
-  },
-  {
-    "category": "Critical",
-    "subcategory": "NemitSickle",
-    "name": "NemitSickleCrit",
-    "id": "75485891279258"
-  },
-  {
-    "category": "Oath",
-    "subcategory": "Fadetrimmer",
-    "name": "PrecisionCuts",
-    "id": "14181029595"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreathe",
-    "name": "Wind Blade",
-    "id": "7666455222"
-  },
-  {
-    "category": "Critical",
-    "subcategory": "HeroBlade",
-    "name": "FireHeroCrit",
-    "id": "11308969885"
-  },
-  {
-    "category": "Critical",
-    "subcategory": "Hullwrecker",
-    "name": "HullwreckerCrit",
-    "id": "91712846887182"
-  },
-  {
-    "category": "Weapon",
-    "subcategory": "Greataxe",
-    "name": "GreataxeCritical",
-    "id": "7388133473"
-  },
-  {
-    "category": "Oath",
-    "subcategory": "Contractor",
-    "name": "Judgement",
-    "id": "9726608174"
-  },
-  {
-    "category": "Oath",
-    "subcategory": "Chainwarden",
-    "name": "Restrain_2",
-    "id": "18585956004"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "Bounder",
-    "name": "BounderLeap",
-    "id": "9544206893"
+    "subcategory": "MartialArts",
+    "name": "ShoulderBashGo",
+    "id": "9400896040"
   },
   {
     "category": "Weapon",
     "subcategory": "Jus Karita",
-    "name": "KaritaLeap",
-    "id": "15420044707"
-  },
-  {
-    "category": "Critical",
-    "subcategory": "Stormseye",
-    "name": "StormseyeCrit",
-    "id": "13610101542"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "DarkBladeSpin",
-    "id": "5053295423"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Thundercall",
-    "name": "LightningBlade",
-    "id": "7599155704"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "EventMantra",
-    "name": "PumpkinThrow",
-    "id": "15160255894"
-  },
-  {
-    "category": "Oath",
-    "subcategory": "Dawnwalker",
-    "name": "BlindingDawn",
-    "id": "10621877046"
-  },
-  {
-    "category": "Critical",
-    "subcategory": "Kyrsglaive",
-    "name": "KyrsglaiveCrit",
-    "id": "109165501462354"
-  },
-  {
-    "category": "Critical",
-    "subcategory": "Halberd",
-    "name": "HalbertCrit",
-    "id": "9212883524"
-  },
-  {
-    "category": "Weapon",
-    "subcategory": "ImperialStaff",
-    "name": "ImperialCrit",
-    "id": "16707867563"
-  },
-  {
-    "category": "Weapon",
-    "subcategory": "PyreKeeper",
-    "name": "PyreKeeperCritCrouch",
-    "id": "71282727175994"
-  },
-  {
-    "category": "Oath",
-    "subcategory": "Starkindred",
-    "name": "SinisterHalo",
-    "id": "9919986614"
-  },
-  {
-    "category": "Oath",
-    "subcategory": "Starkindred",
-    "name": "DeathFromAbove",
-    "id": "121029419529086"
-  },
-  {
-    "category": "Critical",
-    "subcategory": "RifleSpear",
-    "name": "RifleSpearCrit",
-    "id": "8172871094"
-  },
-  {
-    "category": "Mantra",
-    "subcategory": "Monster Mantras",
-    "name": "BrachialSpear",
-    "id": "10695391139"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "Enmity",
-    "name": "ENMITYHOMERUN",
-    "id": "18967397842"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "MediumWep",
-    "name": "ProminenceDraw",
-    "id": "12706574441"
-  },
-  {
-    "category": "Oath",
-    "subcategory": "Silentheart",
-    "name": "RisingStar",
-    "id": "139465383955578"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Thundercall",
-    "name": "LightningSlash",
-    "id": "5968288116"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "AuthorityEnsign",
-    "name": "HiddenBlade",
-    "id": "102871290576312"
-  },
-  {
-    "category": "Critical",
-    "subcategory": "Hailbreaker",
-    "name": "HailbreakerCrit",
-    "id": "88057174463397"
-  },
-  {
-    "category": "Oath",
-    "subcategory": "Silentheart",
-    "name": "RisingStarLight",
-    "id": "100709561068031"
-  },
-  {
-    "category": "Critical",
-    "subcategory": "Kyrswynter",
-    "name": "KyrswynterCritRunning",
-    "id": "18319686489"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "MediumWep",
-    "name": "FlashdrawStrike",
-    "id": "15302935464"
-  },
-  {
-    "category": "Oath",
-    "subcategory": "Saintsworn",
-    "name": "SaintIce",
-    "id": "17481300369"
-  },
-  {
-    "category": "Critical",
-    "subcategory": "Falchion",
-    "name": "FalchionCrit",
-    "id": "129221485664326"
-  },
-  {
-    "category": "Critical",
-    "subcategory": "Dagger",
-    "name": "DaggerCrit",
-    "id": "7350770431"
-  },
-  {
-    "category": "Oath",
-    "subcategory": "Saintsworn",
-    "name": "SaintIce2",
-    "id": "17481302463"
-  },
-  {
-    "category": "Critical",
-    "subcategory": "SeraphSpear",
-    "name": "SeraphSpearCrit",
-    "id": "119723009958796"
-  },
-  {
-    "category": "Weapon",
-    "subcategory": "Pyrekeeper",
-    "name": "PyreKeeperCritRunningWindup",
-    "id": "93913813469029"
+    "name": "KaritaDiveBomb",
+    "id": "15577323908"
   },
   {
     "category": "Mantras",
     "subcategory": "Frostdraw",
-    "name": "IceCarveSpin",
-    "id": "16337192866"
+    "name": "FrozenServantsBlast",
+    "id": "16052265121"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "WealAndWoe",
+    "name": "WealnWoeFloruish",
+    "id": "96170267983421"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Toons",
+    "name": "ToonsCritAerial",
+    "id": "90021911048794"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Contractor",
+    "name": "ContractorGrab",
+    "id": "9726608174"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Toons",
+    "name": "ToonsCrit2",
+    "id": "125807467678893"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Spear",
+    "name": "2_GenericSpearRunning",
+    "id": "5827423063"
   },
   {
     "category": "Mobs",
-    "subcategory": "Titus",
-    "name": "TitusGrab",
-    "id": "129434390222986"
+    "subcategory": "KingCrocco",
+    "name": "KingCroccoPoisonBreath",
+    "id": "8228293862"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Jus Karita",
+    "name": "1_GenericKaritaRunning",
+    "id": "8367730650"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Squidward",
+    "name": "SquidwardSlash1",
+    "id": "13799614234"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "FlameLeap",
+    "id": "7542502881"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Legion Kata",
+    "name": "LegionKataMasteryCrit",
+    "id": "97570885662399"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "RelentlessFlames",
+    "id": "15238144593"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Serpent",
+    "name": "SerpentCrit1",
+    "id": "8095864854"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Squidward",
+    "name": "SquidwardTriple",
+    "id": "139374497695456"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "MartialArts",
+    "name": "TacetKick",
+    "id": "17665602554"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Greatsword",
+    "name": "1_GenericGreatswordRunning",
+    "id": "6669352471"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Carbuncle",
+    "name": "CarbuncleLeap",
+    "id": "9422296675"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Club",
+    "name": "ClubCritical",
+    "id": "12921226261"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Bloodfouler",
+    "name": "BloodfoulerCrit",
+    "id": "84010010955504"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "OfficerSaber",
+    "name": "OfficerSaberCrit",
+    "id": "98485831363157"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Rapier",
+    "name": "1_GenericRapier2",
+    "id": "8249177669"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "FlameScourge",
+    "id": "15375131191"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Toll",
+    "name": "TollM1_1",
+    "id": "11186652658"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Railblade",
+    "name": "RailbladeCrit",
+    "id": "9863424290"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "EnforcerAxe",
+    "name": "EnforcersAxeCrit",
+    "id": "10768748584"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "MartialArts",
+    "name": "Revenge",
+    "id": "8066909599"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Squiggly",
+    "name": "SquibboSlide",
+    "id": "6922042769"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Bloodrend",
+    "name": "VeinTendrils",
+    "id": "137539842058795"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Bow",
+    "name": "2_GenericBow2",
+    "id": "17666284182"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "WindHer",
+    "name": "WindHerCrit",
+    "id": "11312302005"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Decimate",
+    "name": "Decimate",
+    "id": "18953687294"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Crabbo",
+    "name": "CrabboRexBeam",
+    "id": "7960934455"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Edenbrand",
+    "name": "EdenbrandCrit",
+    "id": "80841795666744"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Rupture",
+    "name": "Rupture2",
+    "id": "18592050844"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Monky",
+    "name": "PrimadonTripleStomp",
+    "id": "6432260013"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "FangCoil",
+    "name": "FangRunningCrit",
+    "id": "95605722077074"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Enforcer",
+    "name": "EnforcerSwing1",
+    "id": "7018046790"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Megalodaunt",
+    "name": "SharkoGun",
+    "id": "9356892933"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Contractor",
+    "name": "ContractorWhip",
+    "id": "11862841821"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Greatcanon",
+    "name": "1_GenericGreatcannon2",
+    "id": "122256431354649"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "ForgeGH",
+    "name": "ForgeGHCrit",
+    "id": "118991358495157"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Navae",
+    "name": "1_GenericNavae2",
+    "id": "6063188218"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "ImperialStaff",
+    "name": "ImperialVortexGo",
+    "id": "16707905895"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Enmity",
+    "name": "ENMITYSTOMPSLICE",
+    "id": "18967389067"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Katana",
+    "name": "KatanaCritical",
+    "id": "7827886914"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Saintsworn",
+    "name": "SaintGale",
+    "id": "17481293842"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Rockmaller",
+    "name": "RockmallerCritAerial",
+    "id": "121199564710724"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreathe",
+    "name": "Updraft",
+    "id": "108775350619127"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "FangCoil",
+    "name": "FangCoilCritical",
+    "id": "104396998895690"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Widow",
+    "name": "DeepSpiderDoubleStab",
+    "id": "6428525211"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Iceguy",
+    "name": "IceGuyThrow",
+    "id": "10413826409"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Iceguy",
+    "name": "IceGuyFlip",
+    "id": "10437902558"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Ironsing",
+    "name": "NeedleBarrage",
+    "id": "13253662736"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Bow",
+    "name": "2_GenericBow1",
+    "id": "17666279427"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "ShadowRoarWindup",
+    "id": "7620633231"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Legion Kata",
+    "name": "1_GenericLegionKata1",
+    "id": "123115833203242"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Sword",
+    "name": "SwordCritical",
+    "id": "7318254065"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreathe",
+    "name": "WindCarve",
+    "id": "6466993564"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Monky",
+    "name": "PrimadonStomp",
+    "id": "9225098544"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Sword",
+    "name": "1_GenericSwordUppercut",
+    "id": "11887874227"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Scythe",
+    "name": "Scythe_2",
+    "id": "11493923277"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Smouldering",
+    "name": "SmoulderingCrit",
+    "id": "106452000190522"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Crocco",
+    "name": "CroccoTripleBite",
+    "id": "8226933122"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Silentheart",
+    "name": "MayhemSilentheart",
+    "id": "81062541535552"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "IceSaber",
+    "name": "IceSaber2",
+    "id": "7612146010"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Wraithclaw",
+    "name": "WraithclawCritAerial",
+    "id": "18445489160"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "CeaselessSlashes",
+    "id": "12378124969"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Bloodrend",
+    "name": "CrimsonSurge",
+    "id": "14428785439"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Nocturne",
+    "name": "NocturneCritFollowup",
+    "id": "18556305100"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Navae",
+    "name": "1_GenericNavaeFlourish",
+    "id": "9597289518"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "IceLasers",
+    "id": "6055558740"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Spectral",
+    "name": "SpectralCrit",
+    "id": "131207934895342"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "NightAxe",
+    "name": "NightAxeCrit",
+    "id": "83123470732503"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Sword",
+    "name": "1_GenericSwordAerial",
+    "id": "7576748728"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "IceguyCrawler",
+    "name": "CrawlerSwipes",
+    "id": "11438175479"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "WealAndWoe",
+    "name": "WealnWoeM1_1",
+    "id": "87039001813522"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "MartialArts",
+    "name": "LethalInjection",
+    "id": "6356249386"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "ElectroCarve",
+    "id": "7003342450"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Wraithclaw",
+    "name": "WraithclawCrit",
+    "id": "18445492872"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "ShadowEncircle",
+    "id": "12969986902"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "EthironAvatar",
+    "name": "EthironBeam",
+    "id": "11876148070"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Jus Karita",
+    "name": "1_GenericKarita1",
+    "id": "16372476897"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Squidward",
+    "name": "SquidwardEruption",
+    "id": "6922310516"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Carbuncle",
+    "name": "CarbuncleFlail",
+    "id": "9422278968"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Lumensplitter",
+    "name": "LumensplitterCrit",
+    "id": "121688591791316"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Inferno",
+    "name": "2Inferno3",
+    "id": "104616759679357"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Kanabo",
+    "name": "KanaboCritRunning",
+    "id": "18441684191"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Bloodrend",
+    "name": "BloodtideRitual",
+    "id": "90136907973692"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreathe",
+    "name": "WindForge",
+    "id": "15449613429"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Megalodaunt",
+    "name": "SharkoCoral",
+    "id": "11710417615"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Navae",
+    "name": "1_GenericNavae1",
+    "id": "7616407967"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Silentheart",
+    "name": "RisingStarMedSilentheart",
+    "id": "101880653361558"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "IceCarve",
+    "id": "15713914142"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Curved",
+    "name": "1CurvedSwing1",
+    "id": "12106091136"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Monster Mantras",
+    "name": "BeastBurrow",
+    "id": "10976633163"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "FirstLight",
+    "name": "FirstLight2",
+    "id": "13242083070"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Golem",
+    "name": "GolemCyclone",
+    "id": "6501497627"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "ClutchingShadow",
+    "id": "6385078248"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Stonespark",
+    "name": "StonesparkSwing2",
+    "id": "100404024900445"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "LightningChoke",
+    "id": "5750296638"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "MartialArts",
+    "name": "PortalsKick",
+    "id": "7774139807"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "KrulianKnife",
+    "name": "KrulianKnifeCrit",
+    "id": "17293783110"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "CrystalKick",
+    "id": "6396523003"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Bow",
+    "name": "1_GenericBowAerial",
+    "id": "92625055798566"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Umbrite",
+    "name": "UmbriteSwing2",
+    "id": "119672037814127"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Petras",
+    "name": "PetrasCritWindup",
+    "id": "12071495751"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "RisingShadow",
+    "id": "9149348937"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Fadetrimmer",
+    "name": "MirrorIllusion",
+    "id": "87085678581483"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "IceForgeNewCharge",
+    "id": "8467827292"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Brute",
+    "name": "BrutePunch1",
+    "id": "17108258606"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Serpent",
+    "name": "SerpentCrit2",
+    "id": "8095869307"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "TridentSpear",
+    "name": "TridentSpearCrit",
+    "id": "17363185033"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "MartialArts",
+    "name": "Punishment",
+    "id": "12772036355"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Mudskipper",
+    "name": "MudskipperSlash2",
+    "id": "11573034823"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Squiggly",
+    "name": "SquibboAxeKick",
+    "id": "6922103707"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Megalodaunt",
+    "name": "SharkoKick",
+    "id": "11710290503"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Bloodrend",
+    "name": "BloodOrb",
+    "id": "137313477686049"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "PastryPaster",
+    "name": "PastryPasterCrit",
+    "id": "80709298050884"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "EmotionWave",
+    "id": "17758627105"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Duke",
+    "name": "DukeGrasp",
+    "id": "8285321158"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Railblade",
+    "name": "RailbladeM1_1",
+    "id": "9832721746"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Drago",
+    "name": "KaidoDoubleSwipe",
+    "id": "7014172795"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "ShadeBringer2",
+    "id": "9470822568"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Ironsing",
+    "name": "IronSlam",
+    "id": "13472893499"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "FlameAssault",
+    "id": "7543558046"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Scoundrel",
+    "name": "ScoundrelCrit",
+    "id": "127907374073443"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "MartialArts",
+    "name": "ExhaustionStrike",
+    "id": "8198492537"
   },
   {
     "category": "Mobs",
@@ -984,10 +810,694 @@
     "id": "82036457304798"
   },
   {
+    "category": "Mantras",
+    "subcategory": "Bloodrend",
+    "name": "ScarletCyclone",
+    "id": "132405692502171"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Bounder",
+    "name": "BounderSwing1",
+    "id": "9544192782"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Enforcer",
+    "name": "EnforcerPullStart",
+    "id": "7271659917"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Chaser",
+    "name": "ChaserSlam",
+    "id": "14531935090"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Heartwing",
+    "name": "Heartwing",
+    "id": "133310040571072"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Legion Kata",
+    "name": "1_GenericLegionKataFlourish",
+    "id": "93362023058024"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "ShadowGunWindup",
+    "id": "6415074870"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "ShardBow",
+    "name": "ShardBowWindup",
+    "id": "9236612216"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "IceSmash",
+    "name": "IceSmashWindup",
+    "id": "7598898608"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Umbrite",
+    "name": "UmbriteSwing3",
+    "id": "113419264758259"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Turtle",
+    "name": "TerrapodTripleSwipe",
+    "id": "6728950754"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Crypt",
+    "name": "CryptCrit",
+    "id": "13199310081"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "RatKing",
+    "name": "RatKingTPCombo",
+    "id": "72537613591894"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Starkindred",
+    "name": "SkyshatterKick",
+    "id": "16214012662"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Legion Kata",
+    "name": "1_GenericLegionKata3",
+    "id": "90742361803263"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "RatKing",
+    "name": "RatKingGiantSlash",
+    "id": "96446374278412"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "PyreKeeper",
+    "name": "PyreKeeperCritRunning",
+    "id": "104003503692240"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Monky",
+    "name": "PrimadonGrab",
+    "id": "9225086332"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "FlashfireSweep",
+    "id": "15881820093"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Contractor",
+    "name": "ContractorPull",
+    "id": "11328614766"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "IceForgeCast",
+    "id": "8467835626"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "ArcBeaaaaaam",
+    "id": "9481395855"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "AshSlam",
+    "id": "8199600822"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Bloodrend",
+    "name": "RazorBlitz",
+    "id": "122286859045617"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Crocco",
+    "name": "CroccoPoisonThrow",
+    "id": "9474995715"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "IceHero",
+    "name": "IceHeroCrit",
+    "id": "11183196198"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "PyreKeeper",
+    "name": "PyreKeeperCritRunningHit",
+    "id": "125702527468447"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Golem",
+    "name": "GolemSmack",
+    "id": "6500704554"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Silentheart",
+    "name": "GroundSlideSilentheart",
+    "id": "12564120372"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "PyreKeeper",
+    "name": "PyreKeeperCrit",
+    "id": "17116756734"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Crabbo",
+    "name": "CrabboRexFall",
+    "id": "7961600084"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "ShadowAssault",
+    "id": "6318273143"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Shogun",
+    "name": "ShogunUpsweep",
+    "id": "86527092652774"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "MartialArts",
+    "name": "PalmStrike",
+    "id": "18939487172"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Fadetrimmer",
+    "name": "CloseShave",
+    "id": "14181944470"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "WealAndWoe",
+    "name": "WealnWoeRunningCrit",
+    "id": "106306743037005"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "RatKing",
+    "name": "RatKingGoldenSlamCombo",
+    "id": "114805982806619"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "DualCurvedBlade",
+    "name": "DualCurvedBladeCrit",
+    "id": "13277887570"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Brute",
+    "name": "BruteHeavyPunch",
+    "id": "17108566269"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Ironsing",
+    "name": "ChainFollowup",
+    "id": "18675722274"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "LightningImpact",
+    "id": "6500291394"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreathe",
+    "name": "AstralWind",
+    "id": "6470684331"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Turtle",
+    "name": "TerrapodStampede",
+    "id": "8041947316"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Stormcaller",
+    "name": "StormcallerSlash",
+    "id": "7599175716"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Ironsing",
+    "name": "IronQuills",
+    "id": "126184250609926"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Megalodaunt",
+    "name": "DoubleSharkoSwipe",
+    "id": "5121733951"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreathe",
+    "name": "GaleLungeWindup",
+    "id": "6017393708"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Strength",
+    "name": "StrongLeft",
+    "id": "8085349676"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Crocco",
+    "name": "CroccoRam",
+    "id": "11095471496"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Railblade",
+    "name": "RailbladeM1_2",
+    "id": "9832724876"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "LightningStreamWindup",
+    "id": "5968796999"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "CrazyAxe",
+    "name": "CrazyAxe",
+    "id": "7007372121"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Boltcrusher",
+    "name": "BoltcrusherCrit",
+    "id": "18867175628"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Greataxe",
+    "name": "1_GenericGreatAxe1",
+    "id": "5064195992"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "WardenBladeWindup",
+    "id": "5786514661"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Bloodrend",
+    "name": "SanguineDive",
+    "id": "84099118348290"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Twincleave",
+    "name": "Twincleave",
+    "id": "16213151807"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Enmity",
+    "name": "ENMITYEXECUTE",
+    "id": "131597866888761"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Enforcer",
+    "name": "EnforcerKick",
+    "id": "7019686291"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Ether",
+    "name": "EtherBarrage",
+    "id": "18637932235"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Brute",
+    "name": "BruteSwipe2",
+    "id": "10451145418"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Boneboy",
+    "name": "BoneKeeperBoneThrow",
+    "id": "9681908909"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Bloodrend",
+    "name": "BloodStakes",
+    "id": "77591888013193"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "RatKing",
+    "name": "RatKingDashCombo",
+    "id": "80367812090420"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Iron",
+    "name": "IronRunningCrit",
+    "id": "128614295452457"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Rifle",
+    "name": "1_GenericMusket1",
+    "id": "9928429385"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "RatKing",
+    "name": "RatKingDoubleSlashDash",
+    "id": "76066030388144"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Masters",
+    "name": "MastersFlourish",
+    "id": "8375086403"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "AuthorityEnsign",
+    "name": "AuthortyPunchFloruish",
+    "id": "110164806111956"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "A_LordRegent",
+    "name": "RegentLariat",
+    "id": "72259757199810"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Widow",
+    "name": "DeepSpiderRightSwing",
+    "id": "6428514850"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Jetstriker",
+    "name": "JetstrikerFakeStrike",
+    "id": "16926301301"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Heavy",
+    "name": "1_GenericHeavyAerial",
+    "id": "11363599835"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Boneboy",
+    "name": "BoneBoySpikeFloor",
+    "id": "9681916972"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Toons",
+    "name": "ToonsM1_1",
+    "id": "102858834757078"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Twinstrikes",
+    "name": "TwinstrikesFollowup",
+    "id": "109488905019243"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Rapier",
+    "name": "RapierCritical",
+    "id": "8249271040"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Megalodaunt",
+    "name": "SharkoSwipe",
+    "id": "5117879514"
+  },
+  {
     "category": "Mobs",
     "subcategory": "Titus",
     "name": "TitusStormboundLoop",
     "id": "113791985784867"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Scythe",
+    "name": "Scythe_1",
+    "id": "11493920418"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "PurpleCloud",
+    "name": "PurpleCloud3",
+    "id": "16372427756"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Inferno",
+    "name": "1Inferno3",
+    "id": "96251946143797"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Lionfish",
+    "name": "LionfishBeam",
+    "id": "6372560712"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "CrystalImpaleWindup",
+    "id": "6054920207"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Deepspindle",
+    "name": "DeepspindleCrit",
+    "id": "18208445321"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "RedDeath",
+    "name": "RedDeathCrit",
+    "id": "76842464533258"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Deepspindle",
+    "name": "DeepspindleRunningCrit",
+    "id": "18193351510"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Boneboy",
+    "name": "BoneBoyRushWindup",
+    "id": "9681905891"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Malice",
+    "name": "MaliceM1_4",
+    "id": "12138863931"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Hailbreaker",
+    "name": "HailbreakerCritHit",
+    "id": "96388262269233"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Gale Kata",
+    "name": "1_GenericGaleKata1",
+    "id": "8161039359"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "FrostGrabWindup",
+    "id": "16899875441"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Brute",
+    "name": "BruteSwipe1",
+    "id": "10451138202"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Kanabo",
+    "name": "KanaboCrit",
+    "id": "18443883458"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Soulthorn",
+    "name": "SoulthornCrit2",
+    "id": "18109641443"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Navae",
+    "name": "NavaeCritical",
+    "id": "7391446645"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "LightningKick",
+    "id": "7861135817"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "GrandJavelin",
+    "id": "8183996606"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "FangCoil",
+    "name": "1_GenericFangCoil1",
+    "id": "89177958009696"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Ironsing",
+    "name": "NeedleBarrageBlast",
+    "id": "13246809405"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "PyreKeeper",
+    "name": "PyreKeeperM1_Aerial",
+    "id": "17208601112"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "FlameRepulsionSpring",
+    "id": "18437962498"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreathe",
+    "name": "RisingWind",
+    "id": "7794268358"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Rapier",
+    "name": "1_GenericRapier1",
+    "id": "8249175106"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Flamethrower",
+    "name": "FlamethrowerCrit",
+    "id": "128929685763553"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Flareblood",
+    "name": "FlarebloodCrit",
+    "id": "12990989418"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Malice",
+    "name": "MaliceRunning",
+    "id": "12496646061"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Crazy",
+    "name": "CrazyGuns",
+    "id": "7007974914"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Greatsword",
+    "name": "GreatswordCritical",
+    "id": "7367818208"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "EthironAvatar",
+    "name": "EthironPunch",
+    "id": "11508725111"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "RatKing",
+    "name": "RatKingTurnDash",
+    "id": "100947251441923"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Gale Kata",
+    "name": "1_GenericGaleKata3",
+    "id": "8161044711"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "GreatAxe",
+    "name": "1_GenericGreatAxe3",
+    "id": "5067105317"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Railblade",
+    "name": "RailbladeM1_3",
+    "id": "9832727905"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Mawblades",
+    "name": "MawbladesCrit",
+    "id": "110510943038279"
   },
   {
     "category": "Mobs",
@@ -997,63 +1507,249 @@
   },
   {
     "category": "Mobs",
+    "subcategory": "Crocco",
+    "name": "CroccoSwipes",
+    "id": "8227583745"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Boneboy",
+    "name": "BoneBoyChoke",
+    "id": "9710538334"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Rockmaller",
+    "name": "RockmallerCrit",
+    "id": "85298007288557"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Umbrite",
+    "name": "UmbriteSwing1",
+    "id": "77160956516659"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Stormbreaker",
+    "name": "StormbreakerCrit",
+    "id": "11889580367"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Rite",
+    "name": "RiteCrit",
+    "id": "109984038425740"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Crescendo",
+    "name": "CrescendoCrit",
+    "id": "73539621266914"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Owl",
+    "name": "OwlPrimeSwipe",
+    "id": "75119009295288"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Twinblade",
+    "name": "1_GenericTwinblade1",
+    "id": "138417702895229"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Rite",
+    "name": "RiteCritSlam",
+    "id": "81791470214091"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Golem",
+    "name": "GolemDoubleSlam",
+    "id": "6499077558"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "ShatteredKatana",
+    "name": "ShatteredKatanaCrit",
+    "id": "16021787986"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Enforcer",
+    "name": "EnforcerSwing2",
+    "id": "7018083796"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "CanorFang",
+    "name": "CanorFangCrit",
+    "id": "133484657892607"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreathe",
+    "name": "GaleLungeGo",
+    "id": "6017418456"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Dagger",
+    "name": "DaggerThrow",
+    "id": "7599113567"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "FlameRepulsion",
+    "id": "5778357994"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "GremorianLongSpear",
+    "name": "GremorianLongSpearCrit",
+    "id": "12883012690"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "IceBeam",
+    "id": "7616100008"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "MartialArts",
+    "name": "SliceNDice",
+    "id": "107517860698953"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Inferno",
+    "name": "1Inferno2",
+    "id": "135226142279222"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Monster Mantras",
+    "name": "ParalyticDust",
+    "id": "87962259614393"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Twinblade",
+    "name": "2_GenericTwinblade2",
+    "id": "107653610777693"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Twinblade",
+    "name": "1_GenericTwinblade2",
+    "id": "100190998225588"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Vigillongsword",
+    "name": "VigillongswordCrit",
+    "id": "77966503093128"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Golem",
+    "name": "GolemHammer",
+    "id": "15382135299"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Rupture",
+    "name": "Rupture",
+    "id": "18592047703"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "DarksteelSword",
+    "name": "DarksteelSwordCrit",
+    "id": "10258479464"
+  },
+  {
+    "category": "Mobs",
     "subcategory": "Titus",
     "name": "TitusLariat",
     "id": "93803643628347"
   },
   {
-    "category": "Mobs",
-    "subcategory": "Titus",
-    "name": "TitusKick",
-    "id": "80865399851806"
+    "category": "Oath",
+    "subcategory": "Saintsworn",
+    "name": "SaintShadw",
+    "id": "17481296528"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "ShadowHb",
+    "id": "11468287607"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "MartialArts",
+    "name": "Grappler",
+    "id": "8169914770"
   },
   {
     "category": "Mobs",
-    "subcategory": "Titus",
-    "name": "TitusKickWindup",
-    "id": "96265399948947"
+    "subcategory": "Enmity",
+    "name": "ENMITYLEAP",
+    "id": "92111402678314"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "FangCoil",
+    "name": "1_GenericFangCoil3",
+    "id": "97447284729710"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Linkstriker",
+    "name": "LinkstrikerLink",
+    "id": "10104294736"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Saintsworn",
+    "name": "SaintLightning",
+    "id": "17481286354"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Toons",
+    "name": "ToonsM1_3",
+    "id": "107771611881875"
   },
   {
     "category": "Mobs",
-    "subcategory": "Titus",
-    "name": "TitusGroundStomp",
-    "id": "98679832505566"
+    "subcategory": "Megalodaunt",
+    "name": "SharkoLaser",
+    "id": "9357410713"
   },
   {
-    "category": "Mobs",
-    "subcategory": "Titus",
-    "name": "TitusWarCry",
-    "id": "89507864905366"
+    "category": "Critical",
+    "subcategory": "Wyrm",
+    "name": "WyrmCritSlide",
+    "id": "16961331275"
   },
   {
-    "category": "Mobs",
-    "subcategory": "RatKing",
-    "name": "RatKingSpinMove",
-    "id": "100615685249881"
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "FireBladeStarkindred",
+    "id": "9717753391"
   },
   {
-    "category": "Mobs",
-    "subcategory": "RatKing",
-    "name": "RatKingGoldenSlamCombo",
-    "id": "114805982806619"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "RatKing",
-    "name": "RatKingDashCombo",
-    "id": "80367812090420"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "RatKing",
-    "name": "RatKingDoubleSlashDash",
-    "id": "76066030388144"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "RatKing",
-    "name": "RatKingTurnDash",
-    "id": "100947251441923"
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "ShadeDevour",
+    "id": "9359720148"
   },
   {
     "category": "Mobs",
@@ -1062,16 +1758,364 @@
     "id": "99685895455082"
   },
   {
+    "category": "Mantras",
+    "subcategory": "MartialArts",
+    "name": "RhythmAdvance",
+    "id": "17665624417"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "ShadeBringerSpring",
+    "id": "9366093103"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Ironsing",
+    "name": "MetalRush",
+    "id": "13567686046"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Scalesplitter",
+    "name": "ScalesplitterCrit",
+    "id": "103325425676000"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "RedDeath",
+    "name": "RedDeathRunningCrit",
+    "id": "136701179709286"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Ironsing",
+    "name": "MetalDropKick",
+    "id": "13269418897"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Boltcrusher",
+    "name": "BoltcrusherCritRunning",
+    "id": "18866452701"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Owl",
+    "name": "DeepOwlSwipe1",
+    "id": "7639648215"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "FireEruption",
+    "id": "8378263543"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Mudskipper",
+    "name": "MudskipperBlast",
+    "id": "5832842794"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "DarkBlade",
+    "id": "6038858570"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "MartialArts",
+    "name": "ViciousDescent",
+    "id": "14428522483"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "RisingFrost",
+    "id": "15121611060"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Dagger",
+    "name": "1_GenericDaggerRunning",
+    "id": "5063313656"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Toll",
+    "name": "TollM1_3",
+    "id": "11186656574"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "CrazySword",
+    "name": "CrazySword",
+    "id": "7004327185"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Soulthorn",
+    "name": "SoulthornCrit",
+    "id": "18510057229"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Tanto",
+    "name": "TantoCrit",
+    "id": "98357653035720"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "CurvedBlade",
+    "name": "CurvedBladeCrit",
+    "id": "13290263661"
+  },
+  {
     "category": "Mobs",
     "subcategory": "RatKing",
     "name": "RatKingLeapSlash",
     "id": "72778500832762"
   },
   {
+    "category": "Weapon",
+    "subcategory": "Malice",
+    "name": "MaliceAerial",
+    "id": "12496640760"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Greatcanon",
+    "name": "1_GenericCannonRunning",
+    "id": "101584283427561"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Ironsing",
+    "name": "MetalHug",
+    "id": "13529982886"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Monster Mantras",
+    "name": "DreadWhisper",
+    "id": "115289020018430"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Scythe",
+    "name": "ScytheRunning",
+    "id": "11493924588"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Dagger",
+    "name": "1_GenericDagger3",
+    "id": "5950080662"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Bow",
+    "name": "1_GenericBowRunning",
+    "id": "112381112390648"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Pistol",
+    "name": "2_GenericPistolAerial",
+    "id": "17742747596"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Stonespark",
+    "name": "StonesparkHeavy",
+    "id": "134961845162650"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Dagger",
+    "name": "1_GenericDaggerAerial",
+    "id": "7576614609"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "ElectroCarveMagnet",
+    "id": "15433825224"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Bow",
+    "name": "2_GenericBowFlourish",
+    "id": "17636520960"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "LightningBladeMagnet",
+    "id": "5052240252"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Skyreap",
+    "name": "SkyreapCrit",
+    "id": "123056759322514"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "A_LordRegent",
+    "name": "RegentUnreactableStrike",
+    "id": "134709369301367"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Brute",
+    "name": "BrutePunch2",
+    "id": "17108275299"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Whaling",
+    "name": "WhalingCrit",
+    "id": "9209255758"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Starkindred",
+    "name": "CelestialAssault",
+    "id": "9941118927"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "A_LordRegent",
+    "name": "RegentGrab",
+    "id": "111647546998749"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Ironsing",
+    "name": "MetalRain",
+    "id": "13408478146"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "A_LordRegent",
+    "name": "RegentBreakdance",
+    "id": "123267446325415"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "ShadowEruptionCast",
+    "id": "8018953639"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Spear",
+    "name": "2_GenericSpear2",
+    "id": "7627558238"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "MartialArts",
+    "name": "Onslaught",
+    "id": "15229223629"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Spear",
+    "name": "1_GenericSpear1",
+    "id": "7626771915"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Shogun",
+    "name": "ShogunShadowFold",
+    "id": "76782656543761"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "CrazyGS",
+    "name": "CrazyGS",
+    "id": "7003448248"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "A_LordRegent",
+    "name": "LordRegentRightHook",
+    "id": "80463427840633"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "A_LordRegent",
+    "name": "RegentGrapplePull",
+    "id": "139770040216235"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Enmity",
+    "name": "ENMITYSLASHLEAP",
+    "id": "70906009312691"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Enmity",
+    "name": "ENMITYDASH",
+    "id": "112050896536834"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "MartialArts",
+    "name": "TacetDropKick",
+    "id": "10168663111"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "BurningServants",
+    "id": "5769343416"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Enmity",
+    "name": "ENMITYFLYSMASH",
+    "id": "92111402670314"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "RatKing",
+    "name": "RatKingSpinMove",
+    "id": "100615685249881"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Quartztone",
+    "name": "QuartztoneCritAerial",
+    "id": "16526843767"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Enmity",
+    "name": "ENMITYAXETHROW",
+    "id": "18967392881"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "LFT",
+    "name": "LFTCrit3",
+    "id": "15106225064"
+  },
+  {
     "category": "Mobs",
     "subcategory": "RatKing",
     "name": "RatKingStabSlash",
     "id": "94401200412230"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Inferno",
+    "name": "InfernoRunningCritt",
+    "id": "18109620534"
   },
   {
     "category": "Mobs",
@@ -1093,38 +2137,1004 @@
   },
   {
     "category": "Mobs",
-    "subcategory": "Titus",
-    "name": "TitusGroundPound",
-    "id": "123260957812568"
+    "subcategory": "Owl",
+    "name": "OwlCharge",
+    "id": "7673097597"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Jus Karita",
+    "name": "JusKaritaCritical",
+    "id": "8295145565"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "PermaFrostPrison",
+    "id": "15941738769"
   },
   {
     "category": "Mobs",
-    "subcategory": "Titus",
-    "name": "LeigonKataMasteryM1_1",
-    "id": "123115833203242"
+    "subcategory": "Shogun",
+    "name": "ShogunGreatCleave",
+    "id": "129588531110694"
   },
   {
     "category": "Mobs",
-    "subcategory": "Titus",
-    "name": "LegionKataMasteryM1 _2",
-    "id": "131576892263777"
+    "subcategory": "Shogun",
+    "name": "ShogunTripleFang",
+    "id": "112423929319383"
   },
   {
     "category": "Mobs",
-    "subcategory": "Titus",
-    "name": "LegionKataMasteryM1 _3",
-    "id": "98742361803263"
+    "subcategory": "Shogun",
+    "name": "ShogunAerialDoubleSwing",
+    "id": "118154222392812"
   },
   {
-    "category": "Silentheart",
-    "subcategory": "idk",
-    "name": "SlideM1",
-    "id": "12564120372"
+    "category": "Mobs",
+    "subcategory": "Bounder",
+    "name": "BounderSwing2",
+    "id": "9544183744"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Duke",
+    "name": "DukeStomp",
+    "id": "8290626574"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "UntrainedFist",
+    "name": "UntrainedFistCrit",
+    "id": "92562352733890"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Sword",
+    "name": "1_GenericSword1",
+    "id": "7600160919"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "UntrainedFist",
+    "name": "1_GenericUntrainedFist2",
+    "id": "81374297342678"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "UntrainedFist",
+    "name": "1_GenericUntrainedFist1",
+    "id": "139109176874463"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Ironsing",
+    "name": "MetalLegDrop",
+    "id": "13262891882"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Brainsucker",
+    "name": "BrainsuckerKick",
+    "id": "8204924934"
   },
   {
     "category": "Mantras",
     "subcategory": "Galebreathe",
-    "name": "TempestWind",
-    "id": "7667146179"
+    "name": "WindKick",
+    "id": "10357806593"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Monky",
+    "name": "ElderPrimaStompFeint",
+    "id": "122173613929787"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Legion Kata",
+    "name": "1_GenericLegionKata2",
+    "id": "131576892263777"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "SkullPiercer",
+    "name": "SkullPiercerCrit",
+    "id": "80910993304950"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Fractine",
+    "name": "FractineCrit",
+    "id": "74575549085897"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreathe",
+    "name": "ChampionsWhirlthrow",
+    "id": "9629695751"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Kyrswynter",
+    "name": "KyrswynterCrit",
+    "id": "18322559443"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "LightningClones",
+    "id": "5786525661"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreathe",
+    "name": "HeavenlyWind",
+    "id": "6030770341"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Dawnwalker",
+    "name": "RadiantDawn",
+    "id": "13413457604"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Imperator",
+    "name": "ImperatorsRunningCrit",
+    "id": "74712624949815"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreathe",
+    "name": "TempestBlitz",
+    "id": "15789927733"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Quartztone",
+    "name": "QuartztoneCrit",
+    "id": "16536580165"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "FireBlade",
+    "id": "8046864635"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "RisingThunder",
+    "id": "15214200859"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Bloodrend",
+    "name": "BloodtideRitualEnd",
+    "id": "106034159367447"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "EclipseKick2",
+    "id": "12108376249"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Megalodaunt",
+    "name": "SharkoBeam",
+    "id": "91389074160755"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "ShadowRoar",
+    "id": "7620630583"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Toll",
+    "name": "TollM1_3",
+    "id": "11186656574"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "MartialArts",
+    "name": "Caltrops",
+    "id": "14954130177"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "SoulflareSiphon",
+    "id": "14428696078"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "PurpleCloud",
+    "name": "PurpleCloud1",
+    "id": "16372412925"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "HiveMechGuardian",
+    "name": "RogueConstructSwipe",
+    "id": "11834551880"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Gale Kata",
+    "name": "1_GenericGaleKata4",
+    "id": "8161094751"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Rapier",
+    "name": "1_GenericRapierRunning",
+    "id": "5827250000"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Maestro",
+    "name": "MaestroTripleSlash",
+    "id": "16261490439"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Monster Mantras",
+    "name": "ArdourSlicer",
+    "id": "17481307114"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Lumberaxe",
+    "name": "Lumberaxe",
+    "id": "89448051861345"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "FlameLeapReversal",
+    "id": "8215751569"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Lionfish",
+    "name": "LionfishTripleBite",
+    "id": "5680585677"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "UmbralSlashMed",
+    "id": "70499364296634"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Greatsword",
+    "name": "1_GenericGreatsword1",
+    "id": "6607519294"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "WardensBlade",
+    "name": "WardensBladeCrit",
+    "id": "17292769123"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Shogun",
+    "name": "ShogunEightHeavens",
+    "id": "87084893315096"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Crescent",
+    "name": "CrescentCrit",
+    "id": "10053070573"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Boneboy",
+    "name": "BoneBoyArmSweep1",
+    "id": "9681421310"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Monky",
+    "name": "ElderPrimaUltimateStomp",
+    "id": "82315723491864"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "WealAndWoe",
+    "name": "WealnWoeRunningAttack",
+    "id": "133871771843754"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "LightningBeam",
+    "id": "7617742471"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "FlareVolley",
+    "id": "17665724819"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Widow",
+    "name": "DeepSpiderLeftSwing",
+    "id": "6428519131"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "HairSpray",
+    "name": "HairSpray",
+    "id": "14169996512"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "MartialArts",
+    "name": "ShoulderBashWindup",
+    "id": "9422599069"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Malice",
+    "name": "MaliceM1_1",
+    "id": "12138857946"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Umbrite",
+    "name": "UmbriteCrit",
+    "id": "99308528426034"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "ImperialStaff",
+    "name": "ImperialSlam",
+    "id": "16746044904"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "PurpleCloud",
+    "name": "PurpleCloudCrit",
+    "id": "16387878472"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "KingCrocco",
+    "name": "KingCroccoSlam",
+    "id": "9921853885"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "GreatAxe",
+    "name": "1_GenericGreatAxe2",
+    "id": "5067090007"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Boneboy",
+    "name": "BoneBoyLeapAttack",
+    "id": "9681472252"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Greatsword",
+    "name": "2_GenericGreatsword2",
+    "id": "6675703249"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Serpent",
+    "name": "SerpentCrit3",
+    "id": "8095873745"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "MartialArts",
+    "name": "TableFlip",
+    "id": "18742913661"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Chainwarden",
+    "name": "Restrain",
+    "id": "18589175041"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "HiveMechGuardian",
+    "name": "RogueConstructStomp",
+    "id": "11834549387"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Titus",
+    "name": "TitusKick",
+    "id": "80865399851806"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "WealAndWoe",
+    "name": "WealnWoeM1_2",
+    "id": "115757796989607"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Ironsing",
+    "name": "MetalBall",
+    "id": "14953939237"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "DuskguardAxe",
+    "name": "DuskguardAxeCrit",
+    "id": "91060638385027"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "MartialArts",
+    "name": "Impel",
+    "id": "137594192318552"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Jus Karita",
+    "name": "1_GenericKarita2",
+    "id": "16372478422"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Curved",
+    "name": "1CurvedSwing3",
+    "id": "13065094279"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Petras",
+    "name": "PetrasCritFollowup",
+    "id": "12071942369"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "FlamingScourgeReversal",
+    "id": "18442438270"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Curved",
+    "name": "1CurvedSwing4",
+    "id": "12106093579"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Crocco",
+    "name": "CroccoPoison",
+    "id": "9474993606"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Rifle",
+    "name": "1_GenericMusket2",
+    "id": "9928485641"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "CrazyDagger",
+    "name": "CrazyDagger",
+    "id": "7005236296"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "LightningAssault",
+    "id": "5968282214"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "LFT",
+    "name": "LFTCrit2",
+    "id": "15105011815"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Brainsucker",
+    "name": "BrainsuckerDive",
+    "id": "8205670183"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreathe",
+    "name": "ArcWave",
+    "id": "9536688585"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Megalodaunt",
+    "name": "SharkoDropKick",
+    "id": "9903097211"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Bloodfouler",
+    "name": "BloodfoulerCritRunning",
+    "id": "117202493332843"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Malice",
+    "name": "MaliceCrit",
+    "id": "12138869158"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "StoneKnight",
+    "name": "StoneKnightSwing2",
+    "id": "138936750616581"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Toons",
+    "name": "ToonsM1_2",
+    "id": "106608030834708"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Ironsing",
+    "name": "RocketLance",
+    "id": "13643852843"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Wyrm",
+    "name": "WyrmCrit",
+    "id": "16955614856"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Drago",
+    "name": "KaidoWhip",
+    "id": "7014547998"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Edenstaff",
+    "name": "EdenstaffCrit",
+    "id": "15250125394"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Crabbo",
+    "name": "CrabboSlam",
+    "id": "8176091986"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Gransuda",
+    "name": "GransudaCrit",
+    "id": "13989464729"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Inferno",
+    "name": "1Inferno1",
+    "id": "80513922848003"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Sword",
+    "name": "1SwordSwing1",
+    "id": "7600450739"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Twinblade",
+    "name": "1_GenericTwinbladeAerial",
+    "id": "95071929775027"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Petras",
+    "name": "PetrasCritGo",
+    "id": "12071557016"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Spectral",
+    "name": "SpectralM1_2",
+    "id": "88620745767944"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Enforcer",
+    "name": "EnforcerSpin",
+    "id": "7019018522"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Mudskipper",
+    "name": "MudskipperSlash1",
+    "id": "11572468462"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "EclipseKick",
+    "id": "11959603858"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Starkindred",
+    "name": "SkyshatterRound",
+    "id": "18129125142"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Golem",
+    "name": "GolemStomp",
+    "id": "6501044846"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Drakemaw",
+    "name": "DrakemawCrit",
+    "id": "15248806343"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Owl",
+    "name": "DeepOwlGrab",
+    "id": "7675544287"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "IceEruption",
+    "id": "9551012380"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Imperator",
+    "name": "ImperatorsCrit",
+    "id": "101606363724786"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "WealAndWoe",
+    "name": "WealnWoeCrit",
+    "id": "96751478415634"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Titus",
+    "name": "TitusGrab",
+    "id": "129434390222986"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "LFT",
+    "name": "LFTCrit1",
+    "id": "15104780537"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "ArcBeaaaaaamAir",
+    "id": "9481398449"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "WhirlingBlade",
+    "name": "WhirlingBlade",
+    "id": "14976640312"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "IceLance",
+    "id": "8265980703"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "ImperialStaff",
+    "name": "ImperialM1_2",
+    "id": "16654105888"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "FireForgeWindup",
+    "id": "7608480718"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Navae",
+    "name": "1_GenericFlourish",
+    "id": "9484850093"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Malice",
+    "name": "MaliceM1_3",
+    "id": "12138861998"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Ironsing",
+    "name": "ChainPullWindup",
+    "id": "13527506971"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Spear",
+    "name": "SpearCritical",
+    "id": "7351158603"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreathe",
+    "name": "AirForce",
+    "id": "5828315760"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Reverie",
+    "name": "ReverieCrit",
+    "id": "130566156191218"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "MartialArts",
+    "name": "RapidPunches",
+    "id": "8150828674"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "FlameBallista",
+    "id": "15309554958"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "AuthorityEnsign",
+    "name": "AuthorityOppressive",
+    "id": "85186188251021"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreathe",
+    "name": "TwisterKicks",
+    "id": "16394277950"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Titus",
+    "name": "TitusKickWindup",
+    "id": "96265399948947"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Owl",
+    "name": "OwlPrimeStomp",
+    "id": "96701006735071"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Bloodrend",
+    "name": "CrimsonRain",
+    "id": "83367609184503"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "GreatMaul",
+    "name": "GreatMaulCrit",
+    "id": "117160121128317"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Aranea",
+    "name": "AraneaCrit",
+    "id": "123321475025790"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Twinblade",
+    "name": "1_GenericTwinbladeRunning",
+    "id": "82342705344145"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "MartialArts",
+    "name": "RapidSlashes",
+    "id": "8379406836"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Crocco",
+    "name": "CroccoTailWhip",
+    "id": "8227878518"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "WardensBlade",
+    "name": "WardensBladeCrit2",
+    "id": "17293877605"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Spear",
+    "name": "1_GenericSpear2",
+    "id": "7627049402"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Bloodrend",
+    "name": "BloodCross",
+    "id": "82707421871508"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Bloodfouler",
+    "name": "BlooudFoulerM1_3",
+    "id": "74422917176963"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Railblade",
+    "name": "RailbladeCritAerial",
+    "id": "9893133020"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Ironsing",
+    "name": "MetalRampart",
+    "id": "13319847815"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Bloodfouler",
+    "name": "BloodFoulerM1_1",
+    "id": "121003629056681"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "PyreKeeper",
+    "name": "PyreKeeperCritSliding",
+    "id": "17134046321"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Monster Mantras",
+    "name": "ParasiticLeech",
+    "id": "10133821631"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Titus",
+    "name": "TitusGroundStomp",
+    "id": "98679832505566"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Titus",
+    "name": "TitusWarCry",
+    "id": "89507864905366"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "PyreKeeper",
+    "name": "PyreKeeperCritAerial",
+    "id": "17119287814"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Crabbo",
+    "name": "CrabboDoubleSlash",
+    "id": "7942002115"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Enmity",
+    "name": "ENMITYRIGHLEFT",
+    "id": "18966790283"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "FirePalm",
+    "id": "7618754583"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Shogun",
+    "name": "ShogunDoubleSwing",
+    "id": "124963391435150"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreathe",
+    "name": "RandomWindMove",
+    "id": "15787213583"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Greatsword",
+    "name": "1_GenericGreatsword2",
+    "id": "6607538047"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Bloodrend",
+    "name": "BloodtideRitualStart",
+    "id": "76185225375967"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Spectral",
+    "name": "SpectralM1_1",
+    "id": "94626092299428"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Pistol",
+    "name": "1_GenericPistolUppercut",
+    "id": "11887876811"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Duke",
+    "name": "DukeWindBlast",
+    "id": "8286153000"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Twinstrikes",
+    "name": "Twinstrikes",
+    "id": "101420289979512"
+  },
+  {
+    "category": "Critical",
+    "subcategory": "Nocturne",
+    "name": "NocturneCrit",
+    "id": "18553734325"
+  },
+  {
+    "category": "Oath",
+    "subcategory": "Silentheart",
+    "name": "SilentheartMediumMayhem",
+    "id": "132164383275060"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Pistol",
+    "name": "1_GenericPistolRunning",
+    "id": "17108040817"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Jus Karita",
+    "name": "1_GenericKaritaFlourish",
+    "id": "8278933540"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Ironsing",
+    "name": "MechaGatling",
+    "id": "11638263796"
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "IceSmash",
+    "name": "IceSmashFollowup",
+    "id": "7599400319"
   }
 ]
