@@ -3142,5 +3142,11 @@
     "subcategory": "Inferno",
     "name": "Anim1",
     "id": "1234567"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Inferno",
+    "name": "Anim12",
+    "id": "1234567"
   }
 ]
