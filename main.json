@@ -3136,5 +3136,11 @@
     "subcategory": "IceSmash",
     "name": "IceSmashFollowup",
     "id": "7599400319"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Inferno",
+    "name": "Anim1",
+    "id": "1234567"
   }
 ]
