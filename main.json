@@ -1,8 +1,557 @@
 [
   {
-    "category": "nigger",
-    "subcategory": "nigger",
-    "name": "nigger",
-    "id": "123"
+    "category": "Mantras",
+    "subcategory": "Attunement-less",
+    "name": "Exhaustion Strike",
+    "id": "8198492537"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Attunement-less",
+    "name": "Shoulder Bash",
+    "id": "9422599069"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Attunement-less",
+    "name": "Revenge",
+    "id": "8066909599"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Attunement-less",
+    "name": "Prominence Draw",
+    "id": "12706574441"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Attunement-less",
+    "name": "Master's Flourish",
+    "id": "8375086403"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Attunement-less",
+    "name": "Rapid Slashes",
+    "id": "8379406836"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Attunement-less",
+    "name": "Twincleave",
+    "id": "16213151807"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Attunement-less",
+    "name": "Strong Left",
+    "id": "8085349676"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Attunement-less",
+    "name": "Rapid Punches",
+    "id": "8150828674"
+  },
+
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreath",
+    "name": "Air Force",
+    "id": "5828315760"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreath",
+    "name": "Wind Blade",
+    "id": "7666433622"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreath",
+    "name": "Wind Forge",
+    "id": "15449613429"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreath",
+    "name": "Astral Wind",
+    "id": "6470684331"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreath",
+    "name": "Gale Lunge",
+    "id": "6017393708"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreath",
+    "name": "Twister Kicks",
+    "id": "16394277950"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreath",
+    "name": "Rising Wind",
+    "id": "7794268358"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreath",
+    "name": "Wind Carve",
+    "id": "6466993564"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreath",
+    "name": "Wind Passage",
+    "id": "5968288116"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreath",
+    "name": "Champion's Whirlthrow",
+    "id": "9629695751"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreath",
+    "name": "Updraft",
+    "id": "108775350619127"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreath",
+    "name": "Gale Punch",
+    "id": "7618754583"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreath",
+    "name": "Wind Gun",
+    "id": "8310877920"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreath",
+    "name": "Tornado Kick",
+    "id": "10357806593"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreath",
+    "name": "Gale Trap",
+    "id": "7608490737"
+  },
+
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "Jolt Grab",
+    "id": "5750296638"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "Lightning Kick",
+    "id": "7861135817"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "Lightning Stream",
+    "id": "7761251007"
+  },
+
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "Shadow Gun",
+    "id": "6415085564"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "Shadow Eruption",
+    "id": "8018953639"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "Umbral Slash",
+    "id": "70499364296634"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "Rising Shadow",
+    "id": "9149348937"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "Eclipse Kick",
+    "id": "11959603858"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "Shade Bringer",
+    "id": "9470857690"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "Shadow Roar",
+    "id": "7620633231"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "Shade Step",
+    "id": "84099118348290"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "Shadow Chains",
+    "id": "8018953639"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "Shade Devour",
+    "id": "9359720148"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "Dark Blade",
+    "id": "6039297365"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "Shadow Assault",
+    "id": "6318273143"
+  },
+
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "Ice Smash",
+    "id": "7598898608"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "Ice Lance",
+    "id": "8265980703"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "Ice Carve",
+    "id": "15713914142"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "Ice Blade",
+    "id": "7612017515"
+  },
+
+  {
+    "category": "Mantras",
+    "subcategory": "Jetstriker",
+    "name": "Jet Kick",
+    "id": "16873988732"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Jetstriker",
+    "name": "Fake Strike",
+    "id": "8161039359"
+  },
+
+  {
+    "category": "Mantras",
+    "subcategory": "Contractor",
+    "name": "Judgement",
+    "id": "9726608174"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Contractor",
+    "name": "Lord's Slice",
+    "id": "11328614766"
+  },
+
+  {
+    "category": "Mantras",
+    "subcategory": "Soulbreaker",
+    "name": "Ardour Slicer",
+    "id": "17481307114"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Soulbreaker",
+    "name": "Tacet Kick",
+    "id": "17665602554"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Soulbreaker",
+    "name": "Rythm Advance",
+    "id": "17665624417"
+  },
+
+  {
+    "category": "Weapons",
+    "subcategory": "Frostthorn",
+    "name": "Critical",
+    "id": "130981453118493"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Coldpoint",
+    "name": "Critical",
+    "id": "100635703599003"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Dagger",
+    "name": "Critical",
+    "id": "7350770431"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Krullian Knife",
+    "name": "Critical1",
+    "id": "17293783110"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Krullian Knife",
+    "name": "Critical2",
+    "id": "5968282214"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Spear",
+    "name": "Critical",
+    "id": "7351158603"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Death's Reverie",
+    "name": "Critical",
+    "id": "130566156191218"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Scalesplitter",
+    "name": "Critical",
+    "id": "103325425676000"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Drakemaw Gauntlets",
+    "name": "Critical",
+    "id": "15248806343"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Crypt Blade",
+    "name": "Normal Critical",
+    "id": "13199310081"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Crypt Blade",
+    "name": "Running Critical",
+    "id": "83158542187178"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Rifle",
+    "name": "Critical",
+    "id": "9928485641"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Club",
+    "name": "Critical",
+    "id": "12921226261"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Sword",
+    "name": "Critical",
+    "id": "7318254065"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Katana",
+    "name": "Critical",
+    "id": "7827886914"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Coral Cestus",
+    "name": "Critical",
+    "id": "17120101081"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Jus Karita",
+    "name": "Karita Leap",
+    "id": "15420044707"
+  },
+
+  {
+    "category": "Mobs",
+    "subcategory": "Lionfish",
+    "name": "Triple Bite",
+    "id": "5680585677"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Lionfish",
+    "name": "Beam",
+    "id": "6372560712"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Squibbo",
+    "name": "Slash 1",
+    "id": "13799614234"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Squibbo",
+    "name": "Slash 2",
+    "id": "13799655062"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Squibbo",
+    "name": "Slash 3",
+    "id": "13799693320"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Squibbo",
+    "name": "Eruption",
+    "id": "6922310516"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Mudskipper",
+    "name": "Slash 1",
+    "id": "11572468462"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Mudskipper",
+    "name": "Slash 2",
+    "id": "11573034823"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "(King) Thresher",
+    "name": "Eruption Out of Ground",
+    "id": "8230353450"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "(King) Thresher",
+    "name": "Slam",
+    "id": "9921853885"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "(King) Thresher",
+    "name": "Poison Breath",
+    "id": "8228293862"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "(King) Thresher",
+    "name": "Bite",
+    "id": "8226933122"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "(King) Thresher",
+    "name": "Swipes",
+    "id": "8227583745"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "(King) Thresher",
+    "name": "Whip",
+    "id": "8227878518"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "(King) Thresher",
+    "name": "Dive Up",
+    "id": "8230353450"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Sharko",
+    "name": "Swipe",
+    "id": "5117879514"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Sharko",
+    "name": "Kick",
+    "id": "11710290503"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Sharko",
+    "name": "Coral",
+    "id": "11710417615"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Sharko",
+    "name": "Double Swipe",
+    "id": "5121733951"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Alpha Sharko",
+    "name": "Double Swipe",
+    "id": "5121733951"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Alpha Sharko",
+    "name": "Kick",
+    "id": "11710290503"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Alpha Sharko",
+    "name": "Bite",
+    "id": "9903304018"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Alpha Sharko",
+    "name": "Coral",
+    "id": "11710417615"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Alpha Sharko",
+    "name": "Swipe",
+    "id": "5117879514"
   }
 ]
