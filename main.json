@@ -2,191 +2,98 @@
   {
     "category": "Mantras",
     "subcategory": "Attunement-less",
-    "name": "Exhaustion Strike",
-    "id": "8198492537"
+    "name": "1 Hand Dagger Swing 1",
+    "id": "7627854272"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Bloodtide Ritual Start",
+    "id": "76185225375967"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Pyre Keeper Crit Crouch",
+    "id": "71282727175994"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Stone Knight Punch",
+    "id": "111024000122473"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Dagger",
+    "name": "Crazy Dagger",
+    "id": "7005236296"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Deep Owl Swipe 1",
+    "id": "7639648215"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Sharko",
+    "name": "Sharko Laser",
+    "id": "9357410713"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Sword",
+    "name": "Running Attack Sword 1",
+    "id": "6669352471"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Titus Kick Windup",
+    "id": "96265399948947"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Legion Mastery M1 1",
+    "id": "123115833203242"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Scythe",
+    "name": "Scythe 2",
+    "id": "11493923277"
   },
   {
     "category": "Mantras",
-    "subcategory": "Attunement-less",
-    "name": "Shoulder Bash",
-    "id": "9422599069"
+    "subcategory": "Flamecharm",
+    "name": "Flame Repulsion",
+    "id": "5778357994"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Dagger",
+    "name": "Deep Spider Double Stab",
+    "id": "6428525211"
   },
   {
     "category": "Mantras",
-    "subcategory": "Attunement-less",
-    "name": "Revenge",
-    "id": "8066909599"
+    "subcategory": "Flamecharm",
+    "name": "Flame Leap",
+    "id": "7542502881"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Shotel",
+    "name": "Shotel Crit",
+    "id": "7830946229"
   },
   {
     "category": "Mantras",
-    "subcategory": "Attunement-less",
-    "name": "Prominence Draw",
-    "id": "12706574441"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Attunement-less",
-    "name": "Master's Flourish",
-    "id": "8375086403"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Attunement-less",
-    "name": "Rapid Slashes",
-    "id": "8379406836"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Attunement-less",
-    "name": "Twincleave",
-    "id": "16213151807"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Attunement-less",
-    "name": "Strong Left",
-    "id": "8085349676"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Attunement-less",
-    "name": "Rapid Punches",
-    "id": "8150828674"
-  },
-
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreath",
-    "name": "Air Force",
-    "id": "5828315760"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreath",
-    "name": "Wind Blade",
-    "id": "7666433622"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreath",
-    "name": "Wind Forge",
-    "id": "15449613429"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreath",
-    "name": "Astral Wind",
-    "id": "6470684331"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreath",
-    "name": "Gale Lunge",
-    "id": "6017393708"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreath",
-    "name": "Twister Kicks",
-    "id": "16394277950"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreath",
-    "name": "Rising Wind",
-    "id": "7794268358"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreath",
-    "name": "Wind Carve",
-    "id": "6466993564"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreath",
-    "name": "Wind Passage",
-    "id": "5968288116"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreath",
-    "name": "Champion's Whirlthrow",
-    "id": "9629695751"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreath",
-    "name": "Updraft",
-    "id": "108775350619127"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreath",
-    "name": "Gale Punch",
-    "id": "7618754583"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreath",
-    "name": "Wind Gun",
-    "id": "8310877920"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreath",
-    "name": "Tornado Kick",
-    "id": "10357806593"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Galebreath",
-    "name": "Gale Trap",
-    "id": "7608490737"
-  },
-
-  {
-    "category": "Mantras",
-    "subcategory": "Thundercall",
-    "name": "Jolt Grab",
-    "id": "5750296638"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Thundercall",
-    "name": "Lightning Kick",
-    "id": "7861135817"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Thundercall",
-    "name": "Lightning Stream",
-    "id": "7761251007"
-  },
-
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Shadow Gun",
-    "id": "6415085564"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Shadow Eruption",
-    "id": "8018953639"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Umbral Slash",
-    "id": "70499364296634"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Rising Shadow",
-    "id": "9149348937"
+    "subcategory": "Contractor",
+    "name": "Contractor Whip",
+    "id": "11862841821"
   },
   {
     "category": "Mantras",
@@ -195,363 +102,999 @@
     "id": "11959603858"
   },
   {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Shade Bringer",
-    "id": "9470857690"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Shadow Roar",
-    "id": "7620633231"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Shade Step",
-    "id": "84099118348290"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Shadow Chains",
-    "id": "8018953639"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Shade Devour",
-    "id": "9359720148"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Dark Blade",
-    "id": "6039297365"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Shadowcast",
-    "name": "Shadow Assault",
-    "id": "6318273143"
-  },
-
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Ice Smash",
-    "id": "7598898608"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Ice Lance",
-    "id": "8265980703"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Ice Carve",
-    "id": "15713914142"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Frostdraw",
-    "name": "Ice Blade",
-    "id": "7612017515"
-  },
-
-  {
-    "category": "Mantras",
-    "subcategory": "Jetstriker",
-    "name": "Jet Kick",
-    "id": "16873988732"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Jetstriker",
-    "name": "Fake Strike",
-    "id": "8161039359"
-  },
-
-  {
-    "category": "Mantras",
-    "subcategory": "Contractor",
-    "name": "Judgement",
-    "id": "9726608174"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Contractor",
-    "name": "Lord's Slice",
-    "id": "11328614766"
-  },
-
-  {
-    "category": "Mantras",
-    "subcategory": "Soulbreaker",
-    "name": "Ardour Slicer",
-    "id": "17481307114"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Soulbreaker",
-    "name": "Tacet Kick",
-    "id": "17665602554"
-  },
-  {
-    "category": "Mantras",
-    "subcategory": "Soulbreaker",
-    "name": "Rythm Advance",
-    "id": "17665624417"
-  },
-
-  {
-    "category": "Weapons",
-    "subcategory": "Frostthorn",
-    "name": "Critical",
-    "id": "130981453118493"
-  },
-  {
-    "category": "Weapons",
-    "subcategory": "Coldpoint",
-    "name": "Critical",
-    "id": "100635703599003"
-  },
-  {
-    "category": "Weapons",
-    "subcategory": "Dagger",
-    "name": "Critical",
-    "id": "7350770431"
-  },
-  {
-    "category": "Weapons",
-    "subcategory": "Krullian Knife",
-    "name": "Critical1",
-    "id": "17293783110"
-  },
-  {
-    "category": "Weapons",
-    "subcategory": "Krullian Knife",
-    "name": "Critical2",
-    "id": "5968282214"
-  },
-  {
-    "category": "Weapons",
-    "subcategory": "Spear",
-    "name": "Critical",
-    "id": "7351158603"
-  },
-  {
-    "category": "Weapons",
-    "subcategory": "Death's Reverie",
-    "name": "Critical",
-    "id": "130566156191218"
-  },
-  {
-    "category": "Weapons",
-    "subcategory": "Scalesplitter",
-    "name": "Critical",
-    "id": "103325425676000"
-  },
-  {
-    "category": "Weapons",
-    "subcategory": "Drakemaw Gauntlets",
-    "name": "Critical",
-    "id": "15248806343"
-  },
-  {
-    "category": "Weapons",
-    "subcategory": "Crypt Blade",
-    "name": "Normal Critical",
-    "id": "13199310081"
-  },
-  {
-    "category": "Weapons",
-    "subcategory": "Crypt Blade",
-    "name": "Running Critical",
-    "id": "83158542187178"
-  },
-  {
-    "category": "Weapons",
-    "subcategory": "Rifle",
-    "name": "Critical",
-    "id": "9928485641"
-  },
-  {
-    "category": "Weapons",
-    "subcategory": "Club",
-    "name": "Critical",
-    "id": "12921226261"
+    "category": "Mobs",
+    "subcategory": "Squibbo",
+    "name": "Squibbo Axe Kick",
+    "id": "6922103707"
   },
   {
     "category": "Weapons",
     "subcategory": "Sword",
-    "name": "Critical",
-    "id": "7318254065"
-  },
-  {
-    "category": "Weapons",
-    "subcategory": "Katana",
-    "name": "Critical",
-    "id": "7827886914"
-  },
-  {
-    "category": "Weapons",
-    "subcategory": "Coral Cestus",
-    "name": "Critical",
-    "id": "17120101081"
+    "name": "1 Curved Swing 2",
+    "id": "12106095892"
   },
   {
     "category": "Weapons",
     "subcategory": "Jus Karita",
-    "name": "Karita Leap",
-    "id": "15420044707"
-  },
-
-  {
-    "category": "Mobs",
-    "subcategory": "Lionfish",
-    "name": "Triple Bite",
-    "id": "5680585677"
+    "name": "Jus Karita Swing 3",
+    "id": "16372479940"
   },
   {
     "category": "Mobs",
-    "subcategory": "Lionfish",
-    "name": "Beam",
-    "id": "6372560712"
+    "subcategory": "(King) Thresher",
+    "name": "Crocco Triple Bite",
+    "id": "8226933122"
   },
   {
-    "category": "Mobs",
-    "subcategory": "Squibbo",
-    "name": "Slash 1",
-    "id": "13799614234"
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Malice M1 4",
+    "id": "12138863931"
   },
   {
-    "category": "Mobs",
-    "subcategory": "Squibbo",
-    "name": "Slash 2",
-    "id": "13799655062"
+    "category": "Weapons",
+    "subcategory": "Greatsword",
+    "name": "Greatsword Swing 1",
+    "id": "6675698010"
   },
   {
     "category": "Mobs",
     "subcategory": "Squibbo",
-    "name": "Slash 3",
+    "name": "Squibbo Slash 3",
     "id": "13799693320"
   },
   {
+    "category": "Weapons",
+    "subcategory": "Spear",
+    "name": "1 Spear Swing 2",
+    "id": "7626771915"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Rockmaller",
+    "name": "Rockmaller Crit Aerial",
+    "id": "121199564710724"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Enmity Execute",
+    "id": "131597866888761"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "Shade Bringer 2",
+    "id": "9470822568"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Kyrswynter",
+    "name": "Kyrswynter Crit",
+    "id": "18322559443"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Sword",
+    "name": "Sword Swing 1",
+    "id": "7600160919"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Beast Burrow",
+    "id": "10976633163"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Titus Vault",
+    "id": "118932415770119"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Bone Keeper",
+    "name": "Bone Boy Leap Attack",
+    "id": "9681472252"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Whaling Knife",
+    "name": "Whaling Crit",
+    "id": "9209255758"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "Fire Blade",
+    "id": "8046864635"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Great Maul",
+    "name": "Great Maul Crit",
+    "id": "117160121128317"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Dread Whisper",
+    "name": "Dread Whisper",
+    "id": "115289020018430"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Titus War Cry",
+    "id": "89507864905366"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Bounder Charge",
+    "id": "9544205634"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Pyre Keeper Crit Sliding",
+    "id": "17134046321"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "Ice Eruption",
+    "id": "9551012380"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Scythe",
+    "name": "Scythe Running",
+    "id": "11493924588"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Imperial",
+    "name": "Imperial Crit",
+    "id": "16707867563"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Lightning",
+    "name": "Lightning HB",
+    "id": "10904625331"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Pistol",
+    "name": "Pistol Running",
+    "id": "17108040817"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Rupture",
+    "id": "18592047703"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Table Flip",
+    "id": "18742913661"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Imperial M1 3",
+    "id": "16654113357"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Silentheart",
+    "name": "Silentheart Light Relentless",
+    "id": "110691694093015"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Bone Keeper",
+    "name": "Bone Keeper Bone Throw",
+    "id": "9681908909"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Lionfish",
+    "name": "Lionfish Triple Bite",
+    "id": "5680585677"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "Ice Lasers",
+    "id": "6055558740"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Ice",
+    "name": "Ice Guy Combo",
+    "id": "10413822826"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Attunement-less",
+    "name": "Strong Left",
+    "id": "8085349676"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Fist",
+    "name": "Fist Running Attack",
+    "id": "5063313656"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Aranea",
+    "name": "Aranea Crit",
+    "id": "123321475025790"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Twinblade",
+    "name": "Twinblade Aerial",
+    "id": "95071929775027"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "Ice Smash",
+    "id": "7598889071"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Deep Owl Grab",
+    "id": "7675544287"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Death's Reverie",
+    "name": "Reverie Crit",
+    "id": "130566156191218"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Warden's Blade",
+    "name": "Wardens Blade Crit",
+    "id": "17292769123"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "(King) Thresher",
+    "name": "Crocco Swipes",
+    "id": "8227583745"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Navae",
+    "name": "Navae Swing 2",
+    "id": "6063188218"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Celestial Assault",
+    "id": "9941118927"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Kyrsglaive",
+    "name": "Kyrsglaive Crit",
+    "id": "109165501462354"
+  },
+  {
     "category": "Mobs",
     "subcategory": "Squibbo",
-    "name": "Eruption",
+    "name": "Squibbo Eruption",
     "id": "6922310516"
   },
   {
     "category": "Mobs",
-    "subcategory": "Mudskipper",
-    "name": "Slash 1",
-    "id": "11572468462"
+    "subcategory": "Sharko",
+    "name": "Sharko Quad Swipe",
+    "id": "97269504567525"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Coral Cestus",
+    "name": "Coral Smash",
+    "id": "17120101081"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Serpent",
+    "name": "Serpent Crit 1",
+    "id": "8095864854"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Blood Stakes",
+    "id": "77591888013193"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Rifle",
+    "name": "Rifle M1 3",
+    "id": "9930447958"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Soulflare Siphon",
+    "id": "14428696078"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Nemits Sickle",
+    "name": "Nemits Sickle Crit",
+    "id": "75485891279258"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Imperial M1 2",
+    "id": "16654105888"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Silentheart",
+    "name": "Silentheart Light Mayhem",
+    "id": "85523657178401"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Enmity Right Left",
+    "id": "18966790283"
   },
   {
     "category": "Mobs",
-    "subcategory": "Mudskipper",
-    "name": "Slash 2",
-    "id": "11573034823"
+    "subcategory": "Enforcer",
+    "name": "Enforcer Pull Human",
+    "id": "10880473795"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Greataxe",
+    "name": "Greataxe Critical",
+    "id": "7388133473"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Arc Wave",
+    "id": "9536688585"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Lightning Impact",
+    "id": "6500291394"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Bloodtide Ritual",
+    "id": "90136907973692"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Metal Rain",
+    "id": "13408478146"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Spear",
+    "name": "Spear Critical",
+    "id": "7351158603"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Metal Rampart",
+    "id": "13319847815"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Iron Quills",
+    "id": "126184250609926"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Quartztone",
+    "name": "Quartztone Crit Aerial",
+    "id": "16526843767"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Fist",
+    "name": "Aerial Kick",
+    "id": "8194213529"
   },
   {
     "category": "Mobs",
-    "subcategory": "(King) Thresher",
-    "name": "Eruption Out of Ground",
-    "id": "8230353450"
+    "subcategory": "Rogue Construct",
+    "name": "Rogue Construct Swipe",
+    "id": "11834551880"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Crimson Rain",
+    "id": "83367609184503"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Palm Strike",
+    "id": "18939487172"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Titus Grab Dodge",
+    "id": "128613582420698"
   },
   {
     "category": "Mobs",
-    "subcategory": "(King) Thresher",
-    "name": "Slam",
-    "id": "9921853885"
+    "subcategory": "Enforcer",
+    "name": "Enforcer Swing 1",
+    "id": "7018046790"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Coral Spear",
+    "name": "Coral Spear",
+    "id": "10739102450"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Crystal",
+    "name": "Crystal Kick",
+    "id": "6396523003"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Silentheart",
+    "name": "Silentheart Medium Relentless",
+    "id": "72748965289041"
   },
   {
     "category": "Mobs",
-    "subcategory": "(King) Thresher",
-    "name": "Poison Breath",
-    "id": "8228293862"
+    "subcategory": "Squibbo",
+    "name": "Squibbo Slide",
+    "id": "6922042769"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Warden's Blade",
+    "name": "Warden Blade Windup",
+    "id": "5786514661"
   },
   {
     "category": "Mobs",
-    "subcategory": "(King) Thresher",
-    "name": "Bite",
-    "id": "8226933122"
+    "subcategory": "Enforcer",
+    "name": "Enforcer Kick",
+    "id": "7019686291"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Sword",
+    "name": "1 Curved Swing 1",
+    "id": "12106091136"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Railblade",
+    "name": "Railblade Crit",
+    "id": "9863424290"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Malice M1 3",
+    "id": "12138861998"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Blinding Dawn",
+    "id": "10621877046"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Toll M1 1",
+    "id": "11186652658"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Pastry Paster",
+    "name": "Pastry Paster Crit",
+    "id": "80709298050884"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Blood Orb",
+    "id": "137313477686049"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "Electro Carve",
+    "id": "7003342450"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Legion M1 3",
+    "id": "8161044711"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Metal",
+    "name": "Metal Leg Drop",
+    "id": "13262891882"
   },
   {
     "category": "Mobs",
-    "subcategory": "(King) Thresher",
-    "name": "Swipes",
-    "id": "8227583745"
+    "subcategory": "Brute",
+    "name": "Brute Heavy Punch",
+    "id": "17108566269"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Curved Blade",
+    "name": "Curved Blade Crit",
+    "id": "13290263661"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "Flame Ballista",
+    "id": "15309554958"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "Rising Thunder",
+    "id": "15214200859"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Jus Karita",
+    "name": "Jus Karita Swing 1",
+    "id": "16372476897"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "Flashfire Sweep",
+    "id": "15881820093"
   },
   {
     "category": "Mobs",
-    "subcategory": "(King) Thresher",
-    "name": "Whip",
-    "id": "8227878518"
+    "subcategory": "Primadon",
+    "name": "Primadon Triple Stomp",
+    "id": "6432260013"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Attunement-less",
+    "name": "Twincleave",
+    "id": "16213151807"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Dagger",
+    "name": "Dagger Follow Up",
+    "id": "5950080662"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Blood Fouler M1 3",
+    "id": "74422917176963"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Stone Knight Swing 2",
+    "id": "138936750616581"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Sword",
+    "name": "Sword Critical",
+    "id": "7318254065"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Scarlet Cyclone",
+    "id": "132405692502171"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "Lightning Choke",
+    "id": "5750296638"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Shadowcast",
+    "name": "Shadow Encircle",
+    "id": "12969986902"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Rapier",
+    "name": "Rapier Slash 2",
+    "id": "8249177669"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Restrain",
+    "id": "18589175041"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Titus Lariat",
+    "id": "93803643628347"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Wyrmtooth",
+    "name": "Wyrm Crit",
+    "id": "16955614856"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "Rising Frost",
+    "id": "15121611060"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Greataxe",
+    "name": "Battle Axe Swing 1",
+    "id": "5064195992"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "Lightning Beam",
+    "id": "7617742471"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Metal Hug",
+    "id": "13529982886"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Other",
+    "name": "Punishment",
+    "id": "12772036355"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Twinblade",
+    "name": "2 Twinblade M1 1",
+    "id": "123456225328134"
   },
   {
     "category": "Mobs",
-    "subcategory": "(King) Thresher",
-    "name": "Dive Up",
-    "id": "8230353450"
+    "subcategory": "Enforcer",
+    "name": "Enforcer Spin",
+    "id": "7019018522"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Pyre Keeper M1 2",
+    "id": "17197704130"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Stone Knight Kick",
+    "id": "106711913879378"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Crescendo",
+    "name": "Crescendo Crit",
+    "id": "73539621266914"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Frostdraw",
+    "name": "Ice Beam",
+    "id": "7616100008"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreath",
+    "name": "Heavenly Wind",
+    "id": "6030770341"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Primadon",
+    "name": "Primadon Stomp",
+    "id": "9225098544"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Other",
+    "name": "Heavy Aerial",
+    "id": "11363599835"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Wraithclaw",
+    "name": "Wraithclaw Crit Aerial",
+    "id": "18445489160"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Needle Barrage",
+    "id": "13253662736"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Thundercall",
+    "name": "Lightning Stream",
+    "id": "7761251007"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Spear",
+    "name": "Spear Running",
+    "id": "5827423063"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Other",
+    "name": "Terrapod Triple Swipe",
+    "id": "6728950754"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Dagger",
+    "name": "Dagger Critical",
+    "id": "7350770431"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Crimson Surge",
+    "id": "14428785439"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Mini Crab",
+    "name": "Mini Crab Double Swipe",
+    "id": "5074479705"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Sword",
+    "name": "Sword Aerial Stab",
+    "id": "7576748728"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Umbrite",
+    "name": "Umbrite Swing 3",
+    "id": "113419264758259"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Blood Curdle",
+    "id": "84773513700650"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Krullian Knife",
+    "name": "Lightning Charge Up",
+    "id": "5968282214"
   },
   {
     "category": "Mobs",
     "subcategory": "Sharko",
-    "name": "Swipe",
-    "id": "5117879514"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "Sharko",
-    "name": "Kick",
-    "id": "11710290503"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "Sharko",
-    "name": "Coral",
+    "name": "Sharko Coral",
     "id": "11710417615"
   },
   {
+    "category": "Weapons",
+    "subcategory": "Other",
+    "name": "Petras Crit Windup",
+    "id": "12071495751"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Ice",
+    "name": "Ice Hero Crit",
+    "id": "11183196198"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "(King) Thresher",
+    "name": "Crocco Ram",
+    "id": "11095471496"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Quartztone",
+    "name": "Quartztone Crit",
+    "id": "16536580165"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Spear",
+    "name": "Spear 3 Running Attack",
+    "id": "5827250000"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Dagger",
+    "name": "Deep Spider Left Swing",
+    "id": "6428519131"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Primadon",
+    "name": "Elder Prima Six Stomp",
+    "id": "82589408775991"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Greatsword",
+    "name": "Greatsword Swing 2",
+    "id": "6675703249"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Officer Saber",
+    "name": "Officer Saber Crit",
+    "id": "98485831363157"
+  },
+  {
+    "category": "Mobs",
+    "subcategory": "Enforcer",
+    "name": "Enforcer Swing 2",
+    "id": "7018083796"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Twinblade",
+    "name": "Twinblade Running",
+    "id": "82342705344145"
+  },
+  {
     "category": "Mobs",
     "subcategory": "Sharko",
-    "name": "Double Swipe",
-    "id": "5121733951"
+    "name": "Sharko Gun",
+    "id": "9356892933"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Drakemaw Gauntlets",
+    "name": "Drakemaw Crit",
+    "id": "15248806343"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Vent",
+    "id": "9657469282"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Katana",
+    "name": "Katana Critical",
+    "id": "7827886914"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Emotion Wave",
+    "id": "17758627105"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Other",
+    "name": "Chorus Crit",
+    "id": "132792155877270"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Mirror Illusion",
+    "id": "87085678581483"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Galebreath",
+    "name": "Saint Gale",
+    "id": "17481293842"
   },
   {
     "category": "Mobs",
-    "subcategory": "Alpha Sharko",
-    "name": "Double Swipe",
-    "id": "5121733951"
+    "subcategory": "Brute",
+    "name": "Brute Punch 1",
+    "id": "17108258606"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Gransuda",
+    "name": "Gransuda Crit",
+    "id": "13989464729"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Railblade M1 3",
+    "id": "9832727905"
+  },
+  {
+    "category": "Weapons",
+    "subcategory": "Pistol",
+    "name": "One Handed Shot 1",
+    "id": "14435770311"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Malice Aerial",
+    "id": "12496640760"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Other",
+    "name": "Decimate",
+    "id": "18953687294"
+  },
+  {
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Death From Above",
+    "id": "121029419529086"
+  },
+  {
+    "category": "Mantras",
+    "subcategory": "Flamecharm",
+    "name": "Fire Blade Starkindred",
+    "id": "9717753391"
   },
   {
     "category": "Mobs",
-    "subcategory": "Alpha Sharko",
-    "name": "Kick",
-    "id": "11710290503"
+    "subcategory": "Bone Keeper",
+    "name": "Bone Boy Arm Sweep 1",
+    "id": "9681421310"
   },
   {
-    "category": "Mobs",
-    "subcategory": "Alpha Sharko",
-    "name": "Bite",
-    "id": "9903304018"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "Alpha Sharko",
-    "name": "Coral",
-    "id": "11710417615"
-  },
-  {
-    "category": "Mobs",
-    "subcategory": "Alpha Sharko",
-    "name": "Swipe",
-    "id": "5117879514"
+    "category": "Other",
+    "subcategory": "Other",
+    "name": "Titus Ground Pound",
+    "id": "123260957812568"
   }
 ]
